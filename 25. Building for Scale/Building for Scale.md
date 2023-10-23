@@ -1,0 +1,5 @@
+[[Difference between these]]
+[[Migration Strategies]]
+[[Mitigation Strategies]]
+[[Observability]]
+[[Types of Scaling]]
