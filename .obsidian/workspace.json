@@ -16,359 +16,11 @@
             }
           },
           {
-            "id": "f407e84b1ab52b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Internet/Internet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d389d7fb751586ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Learn a Language/Learn a Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "751c6664ff842fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Version Control Systems/Version Control Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d040e5cada8aa9b8",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "4f5937ea1f0a07b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Repo hosting services/Repo hosting services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63894a9b3b90d1ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. OS and General Knowledge/OS and General Knowledge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0abfb8fbd24780e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. OS and General Knowledge/OS and General Knowledge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23f3677f202cf92c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Internet/Internet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee08513fcccef420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Learn a Language/Learn a Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e8a9d6f68235aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Version Control Systems/Version Control Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "993ce0284864ee8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Repo hosting services/Repo hosting services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccdbc6b49735dcea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. OS and General Knowledge/OS and General Knowledge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bff9fd0b697fc0f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Relational Database/Relational Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f35a6bd57bd0ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. NoSQL Databases/NoSQL Databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08b6009aa6ef9560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8. More about Database/More about Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36c8dda6eafc7e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9. Scaling Databases/Scaling Databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54a3bf460493d102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Learn about APIs/Learn about APIs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8163af35010b222e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11. Caching/Caching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65336e39028cfde7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12. Web Security Knowledge/Web Security Knowledge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6ccaa7ede7844d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Testing/Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a64e06e8dd1fb03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14. CI CD/CI CD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4923a42f872cf727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15. Software Design & Architecture/Software Design & Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4aaaf94e17fe9fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16. Design and Development Principles/Design and Development Principles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3686c13dbdf372eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17. Architectural Patterns/Architectural Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c42fdff5105de02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18. Search Engines/Search Engines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7804e84b01e2851e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "19. Message Brokers/Message Brokers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4168778df5ffcb63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Cotainerization vs Virualization/Cotainerization vs Virualization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c87c3ba78bb7dc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "21. GraphQL/GraphQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "403e949734cd9836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22. WebSockets/WebSockets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f45089267a2194d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "23. Server Sent Events/Server Sent Events.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -384,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -510,45 +162,45 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1a83cb60a9bb4bbe",
+  "active": "5a57f8e2eea14356",
   "lastOpenFiles": [
-    "2023-10-23.md",
+    "로드맵/24. Web Servers/Web Servers.md",
+    "로드맵/24. Web Servers",
+    "로드맵/23. Server Sent Events/Server Sent Events.md",
+    "로드맵/23. Server Sent Events",
+    "로드맵/22. WebSockets/WebSockets.md",
+    "로드맵/22. WebSockets",
+    "로드맵/21. GraphQL/GraphQL.md",
+    "로드맵/21. GraphQL",
+    "로드맵/20. Cotainerization vs Virualization/Cotainerization vs Virualization.md",
+    "로드맵/20. Cotainerization vs Virualization",
+    "로드맵/19. Message Brokers/RabbitMQ.md",
+    "로드맵/19. Message Brokers/Message Brokers.md",
+    "로드맵/19. Message Brokers",
+    "로드맵/18. Search Engines/Search Engines.md",
+    "로드맵/18. Search Engines",
+    "로드맵/17. Architectural Patterns/Architectural Patterns.md",
+    "로드맵/17. Architectural Patterns",
+    "로드맵/16. Design and Development Principles/Design and Development Principles.md",
+    "로드맵/16. Design and Development Principles",
+    "로드맵/15. Software Design & Architecture/Software Design & Architecture.md",
+    "로드맵/15. Software Design & Architecture",
+    "로드맵/14. CI CD/CI CD.md",
+    "로드맵/13. Testing/Testing.md",
+    "로드맵/12. Web Security Knowledge/Hashing Algorithms/Hashing Algorithms.md",
+    "로드맵/12. Web Security Knowledge/API Security Best Practices/API Security Best Practices.md",
+    "로드맵/12. Web Security Knowledge/Web Security Knowledge.md",
+    "로드맵/11. Caching/Server Side/Server Side.md",
+    "로드맵/11. Caching/Caching.md",
+    "로드맵/10. Learn about APIs/Authentication/Authentication.md",
+    "로드맵/10. Learn about APIs/Learn about APIs.md",
+    "로드맵/9. Scaling Databases/Scaling Databases.md",
+    "로드맵/8. More about Database/More about Database.md",
+    "로드맵/7. NoSQL Databases/Time Series/Time Series.md",
+    "로드맵/7. NoSQL Databases/Realtime/Realtime.md",
+    "로드맵/7. NoSQL Databases/Key-Value/Key-Value.md",
+    "로드맵/7. NoSQL Databases/Graph DBs/Graph DBs.md",
     "로드맵.canvas",
-    "10. Learn about APIs/Authentication/Authentication.md",
-    "무제 파일 1.canvas",
-    "24. Web Servers/Web Servers.md",
-    "23. Server Sent Events/Server Sent Events.md",
-    "22. WebSockets/WebSockets.md",
-    "21. GraphQL/GraphQL.md",
-    "20. Cotainerization vs Virualization/Cotainerization vs Virualization.md",
-    "19. Message Brokers/Message Brokers.md",
-    "18. Search Engines/Search Engines.md",
-    "17. Architectural Patterns/Architectural Patterns.md",
-    "16. Design and Development Principles/Design and Development Principles.md",
-    "15. Software Design & Architecture/Software Design & Architecture.md",
-    "14. CI CD/CI CD.md",
-    "13. Testing/Testing.md",
-    "12. Web Security Knowledge/Web Security Knowledge.md",
-    "11. Caching/Caching.md",
-    "10. Learn about APIs/Learn about APIs.md",
-    "9. Scaling Databases/Scaling Databases.md",
-    "8. More about Database/More about Database.md",
-    "7. NoSQL Databases/NoSQL Databases.md",
-    "6. Relational Database/Relational Database.md",
-    "5. OS and General Knowledge/OS and General Knowledge.md",
-    "4. Repo hosting services/Repo hosting services.md",
-    "3. Version Control Systems/Version Control Systems.md",
-    "2. Learn a Language/Learn a Language.md",
-    "1. Internet/Internet.md",
-    "15. Software Design & Architecture",
-    "25. Building for Scale/Observability",
-    "25. Building for Scale/Types of Scaling",
-    "25. Building for Scale/Migration Strategies",
-    "25. Building for Scale/Mitigation Strategies",
-    "25. Building for Scale/Difference between these",
-    "25. Building for Scale",
-    "24. Web Servers",
-    "23. Server Sent Events",
-    "22. WebSockets"
+    "무제 파일 1.canvas"
   ]
 }
