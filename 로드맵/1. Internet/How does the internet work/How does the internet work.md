@@ -3,7 +3,7 @@
 
 인터넷의 핵심은 상호연결된 [라우터](Router.md)들의 글로벌 네트워크이다. 라우터는 서로 다른 장치와 시스템 간의 [트래픽](Traffic) 전달을 담당한다. 너가 인터넷으로 데이터를 보낼때, 데이터는 작은 [패킷](Packet.md)들로 나눠지고 너의 작은 장치에서 라우터로 보내진다. 그 라우터는 패킷을 검사하여 목적지를 향한 경로의 다음 라우터에 패킷을 전달하고, 이 과정은 패킷이 원하는 목적지에 도달할 때까지 계속된다.
 
-패킷이 올바르게 전송되고 수신되는지 확인하려면, 인터넷은 다양한 프로토콜들을 사용하는데, [the Internet Protocol (IP)](IP.md)_그리고 [Transmission Control Protocol (TCP)](TCP). IP는 패킷을 올바른 대상으로 [라우팅](Routing)하는 역할을 담당하고, TCP는 패킷이 올바른 순서로 안정적으로 전송되도록 보장한다.
+패킷이 올바르게 전송되고 수신되는지 확인하려면, 인터넷은 다양한 프로토콜들을 사용하는데, [the Internet Protocol (IP)](IP.md)_그리고 [Transmission Control Protocol (TCP)](TCP.md). IP는 패킷을 올바른 대상으로 [라우팅](Routing.md)하는 역할을 담당하고, TCP는 패킷이 올바른 순서로 안정적으로 전송되도록 보장한다.
 
 추가적으로 이러한 핵심 프로토콜, 소통과 데이터 교환을 인터넷에서 가능하게 하기위해 사용되는 넓은 범위의 다른 기술들과 프로토콜들이 있다, Domain Name System [(DNS)](DNS.md), the Hypertext Transfer Protocol [(HTTP)](HTTP.md), 그리고 the Secure Sockets Layer/Transport Layer Security [(SSL/TLS)](SSL,TLS.md) protocol. 
 
