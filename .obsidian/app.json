@@ -1,4 +1,6 @@
 {
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "로드맵/2. Learn a Language/Java8/ddd",
+  "promptDelete": false
 }

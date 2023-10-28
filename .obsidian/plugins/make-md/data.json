@@ -37,6 +37,7 @@
   "expandedFolders": {},
   "expandedSpaces": [
     "/",
+    null,
     null
   ],
   "expandFolderOnClick": true,
@@ -53,7 +54,7 @@
   "hiddenFiles": [
     "Context"
   ],
-  "lineNumbers": false,
+  "lineNumbers": true,
   "hiddenExtensions": [
     ".mdb"
   ],
@@ -68,7 +69,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698492159312,
+  "spacesAutoBackupLast": 1698492628061,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

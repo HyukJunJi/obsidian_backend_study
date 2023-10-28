@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "로드맵/2. Learn a Language/Java8/Stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -79,14 +79,15 @@
             }
           },
           {
-            "id": "284796e209b50c0b",
+            "id": "9182dba48e857c46",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "로드맵/2. Learn a Language/Java8/Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "로드맵/2. Learn a Language/Java8/Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "로드맵/2. Learn a Language/Java8/Stream.md"
               }
             }
           },
@@ -179,14 +180,25 @@
   },
   "active": "686e1d4d27e967fe",
   "lastOpenFiles": [
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
-    "conflict-files-obsidian-git.md",
+    "로드맵/2. Learn a Language/2. Learn a Language.md",
     "로드맵/2. Learn a Language/Java8/Stream.md",
-    "로드맵/2. Learn a Language/Java8/Java8.md",
-    "로드맵/2. Learn a Language/Java8",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
-    "로드맵/1. Internet/How does the internet work/Routing.md",
+    "로드맵/2. Learn a Language/Java8/ddd",
+    "로드맵/1. Internet/1. Internet.md",
+    "무제 폴더",
     "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+    "로드맵/2. Learn a Language/Java8/Java8.md",
+    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
+    "로드맵/1. Internet/How does the internet work/fsdf",
+    "rewr",
+    "무제 파일.md",
+    "로드맵/1. Internet/How does the internet work/네트워크 스위치.md",
+    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
+    "Untitled.png",
+    "Untitled (1).png",
+    "Untitled (2).png",
+    "conflict-files-obsidian-git.md",
+    "로드맵/2. Learn a Language/Java8",
+    "로드맵/1. Internet/How does the internet work/Routing.md",
     "로드맵/1. Internet/How does the internet work/Domain Name.md",
     "로드맵/1. Internet/How does the internet work/Packet.md",
     "로드맵/1. Internet/How does the internet work/TCP.md",
@@ -197,20 +209,12 @@
     "Excalidraw/Drawing 2023-10-27 21.02.21.excalidraw.md",
     "로드맵/1. Internet/How does the internet work/HTTP.md",
     "로드맵/1. Internet/How does the internet work/DNS.md",
-    "로드맵/1. Internet/How does the internet work/네트워크 스위치.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/커널.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
     "로드맵/1. Internet/How does the internet work/이더넷.md",
     "Context/spacesLastSync.log",
     "Context",
     "로드맵/1. Internet/How does the internet work/IP.md",
-    "패킷 전환 네트워크.md",
-    "Untitled (2).png",
-    "Untitled (1).png",
-    "Untitled.png",
-    "Traffic.md",
-    "로드맵/1. Internet/How does the internet work/LAN.md",
-    "로드맵/1. Internet/How does the internet work/TCP세그먼트.md",
     "Pasted image 20231027164558.png",
     "로드맵/1. Internet/How does the internet work/프로토콜",
     "로드맵.canvas",
@@ -221,10 +225,6 @@
     "Pasted image 20231026172349.png",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층",
     "로드맵/1. Internet/How does the internet work",
-    "마크다운",
-    "Excalidraw",
-    "로드맵/25. Building for Scale/Migration Strategies",
-    "5. OS and General Knowledge",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
