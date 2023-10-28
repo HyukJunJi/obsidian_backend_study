@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "686e1d4d27e967fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
+                "file": "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
+                "file": "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md"
+                "file": "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md"
               }
             }
           },
@@ -175,12 +161,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a57f8e2eea14356",
+  "active": "ced4d41ef4b2af7d",
   "lastOpenFiles": [
+    "ddd/ddd.md",
+    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
+    "ddd",
     "Excalidraw/Drawing 2023-10-27 21.02.21.excalidraw.md",
     "로드맵/1. Internet/1. Internet.md",
     "로드맵/1. Internet/How does the internet work/How does the internet work.md",
@@ -189,7 +177,6 @@
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/커널.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/패킷 전환 네트워크.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
     "로드맵/10. Learn about APIs/Authentication/ddd/context.mdb",
     "로드맵/10. Learn about APIs/Authentication/ddd/ddd.md",
     "로드맵/10. Learn about APIs/Authentication/Authentication.md",
@@ -199,7 +186,6 @@
     "로드맵/2. Learn a Language/Java8/Stream.md",
     "로드맵/2. Learn a Language/2. Learn a Language.md",
     "로드맵/2. Learn a Language/Java8/ddd",
-    "무제 폴더",
     "로드맵/2. Learn a Language/Java8/Java8.md",
     "로드맵/1. Internet/How does the internet work/fsdf",
     "rewr",
@@ -216,7 +202,6 @@
     "로드맵/1. Internet/How does the internet work/Router.md",
     "로드맵/1. Internet/How does the internet work/SSL,TLS.md",
     "Excalidraw/Drawing 2023-10-27 21.04.03.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 20.48.35.excalidraw.md",
     "Context/spacesLastSync.log",
     "Context",
     "Pasted image 20231027164558.png",
