@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/2. Learn a Language/Java8/Stream2.md",
+                "file": "로드맵/1. Internet/How does the internet work/Routing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/2. Learn a Language/Java8/Stream2.md",
+                "file": "로드맵/1. Internet/How does the internet work/Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/2. Learn a Language/Java8/Stream2.md",
+                "file": "로드맵/1. Internet/How does the internet work/Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/2. Learn a Language/Java8/Stream2.md"
+                "file": "로드맵/1. Internet/How does the internet work/Routing.md"
               }
             }
           },
@@ -148,11 +147,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 447.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,42 +167,42 @@
   },
   "active": "ced4d41ef4b2af7d",
   "lastOpenFiles": [
-    "로드맵/2. Learn a Language/Java8/Stream.md",
-    "로드맵/2. Learn a Language/Java8/Stream2.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
-    "ddd/ddd.md",
+    "로드맵/1. Internet/How does the internet work/LAN.md",
+    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/커널.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
+    "로드맵/1. Internet/How does the internet work/Domain Name.md",
+    "로드맵/1. Internet/How does the internet work/이더넷.md",
+    "로드맵/1. Internet/How does the internet work/DNS.md",
+    "로드맵/1. Internet/How does the internet work/Routing.md",
+    "로드맵/1. Internet/How does the internet work/Router.md",
+    "로드맵/1. Internet/How does the internet work/Packet.md",
+    "로드맵/1. Internet/How does the internet work/IP.md",
+    "로드맵/1. Internet/How does the internet work/HTTPS.md",
+    "로드맵/1. Internet/How does the internet work/HTTP.md",
+    "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+    "로드맵/1. Internet/How does the internet work/네트워크 스위치.md",
+    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
+    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/패킷 전환 네트워크.md",
+    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
+    "2023-10-26.md",
+    "2023-10-24.md",
+    "Untitled.png",
+    "Untitled (1).png",
+    "Untitled (2).png",
+    "로드맵/2. Learn a Language/Java8/Stream2.md",
+    "로드맵/2. Learn a Language/Java8/Stream.md",
+    "ddd/ddd.md",
     "ddd",
     "Excalidraw/Drawing 2023-10-27 21.02.21.excalidraw.md",
     "로드맵/1. Internet/1. Internet.md",
-    "로드맵/1. Internet/How does the internet work/How does the internet work.md",
-    "로드맵/1. Internet/How does the internet work/DNS.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/커널.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/패킷 전환 네트워크.md",
     "로드맵/10. Learn about APIs/Authentication/ddd/context.mdb",
     "로드맵/10. Learn about APIs/Authentication/ddd/ddd.md",
     "로드맵/10. Learn about APIs/Authentication/Authentication.md",
     "로드맵/10. Learn about APIs/Authentication/ddd",
-    "무제 파일.md",
-    "무제 파일 1.md",
-    "로드맵/2. Learn a Language/2. Learn a Language.md",
     "로드맵/2. Learn a Language/Java8/ddd",
-    "로드맵/2. Learn a Language/Java8/Java8.md",
     "로드맵/1. Internet/How does the internet work/fsdf",
     "rewr",
-    "로드맵/1. Internet/How does the internet work/네트워크 스위치.md",
-    "Untitled.png",
-    "Untitled (1).png",
-    "Untitled (2).png",
-    "conflict-files-obsidian-git.md",
     "로드맵/2. Learn a Language/Java8",
-    "로드맵/1. Internet/How does the internet work/Routing.md",
-    "로드맵/1. Internet/How does the internet work/Domain Name.md",
-    "로드맵/1. Internet/How does the internet work/Packet.md",
-    "로드맵/1. Internet/How does the internet work/TCP.md",
-    "로드맵/1. Internet/How does the internet work/Router.md",
-    "로드맵/1. Internet/How does the internet work/SSL,TLS.md",
     "Context/spacesLastSync.log",
     "Context",
     "Pasted image 20231027164558.png",
