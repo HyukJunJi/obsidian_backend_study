@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/Routing.md",
+                "file": "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5143f94242d1da34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WAN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/Routing.md",
+                "file": "WAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/Routing.md",
+                "file": "WAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/Routing.md"
+                "file": "WAN.md"
               }
             }
           },
@@ -165,15 +179,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ced4d41ef4b2af7d",
+  "active": "5143f94242d1da34",
   "lastOpenFiles": [
+    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
+    "WAN.md",
+    "로드맵/1. Internet/How does the internet work/Routing.md",
     "로드맵/1. Internet/How does the internet work/LAN.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/커널.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
     "로드맵/1. Internet/How does the internet work/Domain Name.md",
     "로드맵/1. Internet/How does the internet work/이더넷.md",
     "로드맵/1. Internet/How does the internet work/DNS.md",
-    "로드맵/1. Internet/How does the internet work/Routing.md",
     "로드맵/1. Internet/How does the internet work/Router.md",
     "로드맵/1. Internet/How does the internet work/Packet.md",
     "로드맵/1. Internet/How does the internet work/IP.md",
@@ -183,7 +199,6 @@
     "로드맵/1. Internet/How does the internet work/네트워크 스위치.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/패킷 전환 네트워크.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
     "2023-10-26.md",
     "2023-10-24.md",
     "Untitled.png",
@@ -197,7 +212,6 @@
     "로드맵/1. Internet/1. Internet.md",
     "로드맵/10. Learn about APIs/Authentication/ddd/context.mdb",
     "로드맵/10. Learn about APIs/Authentication/ddd/ddd.md",
-    "로드맵/10. Learn about APIs/Authentication/Authentication.md",
     "로드맵/10. Learn about APIs/Authentication/ddd",
     "로드맵/2. Learn a Language/Java8/ddd",
     "로드맵/1. Internet/How does the internet work/fsdf",
