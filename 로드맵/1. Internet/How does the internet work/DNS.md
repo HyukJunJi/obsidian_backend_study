@@ -1,6 +1,42 @@
+네트워크 프로토콜에는 실제 데이터를 실어 나르는 데이터 프로토콜과 이 데이터 프로토콜이 잘 동작하도록 도와주는 컨트롤 프로토콜이 존재한다. 컨트롤 프로토콜에는 ARP,ICMP[^1],DNS가 있다. 이 중 DNS는 
+
+***자세한 컨트롤 프로토콜에 대해선 -> 여기서 [[Protocol]]***
+
 웹사이트의 주소는 IP 주소보다 도메인 주소 기반을 자주 사용하는데 이는 사용자가 쉽게 인식하고 기억하기에는 도메인 주소가 적합하기 때문이다.
-물론 도메인 주소를 이용하더라도 [[3계층]]/IP
-
-
+물론 도메인 주소를 이용하더라도 [[3계층]]/IP 주소를 알아야 하고 이를 위해 문자열로 된 도메인 주소를 실제 통신에 필요한 IP 주소로 변환하는 DNS 정보를 알아야 한다.
+사용자가 도메인 주소를 이용하여 서비스를 요청하면 <U>네트워크 설정에 입력한 DNS로 해당 도메인에 대한 IP주소 질의를 보내고 그 결과값으로 요청한 도메인 서비스IP주소를 받게 된다.</U>
 ![DNS구조](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb9W3uZ%2FbtrGC67fm31%2FaMF0K0CSUw7X01UAs1ZcjK%2Fimg.png)
+1. 사용자가 naver.com을 입력하면 DNS 서버에 naver.com 주소가 무엇인지 질의
+2. DNS 서버는 naver.com의 IP 주소가 202.179.177.21이라는 주소를 이용해 실제 naver.com에 접속
+>[!info] 참고
+>사용자가 서비스를 찾아갈 때뿐만 아니라 내부 시스템의 서비스 간 연결에도 DNS를 사용한다.
+>서비스간 연결을 IP로 한다면 IP변경이 필요할 경우, 여러 가지 설정을 변경하거나 프로그램을 재배포해야 한다.
+>이때 도메인 주소로 연결하면 DNS서버에서 간단한 설정 변경만으로 복잡한 서비스 간 연결을 쉽게 변경 가능하다.
+
+-----
+DNS 구조와 명명 규칙
+도메인은 계층 구조여서 수많은 인터넷 주소 중 원하는 주소를 효율적으로 찾아갈 수 있다.
+역 트리 구조로 최상위부터 Top-Level, Second-Level, Third-Level와 같이 하위 레벨로 원하는 주소를 단계적으로 찾아간다.
+![사진](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbsKWsj%2FbtrGEKhOkq6%2F3zRkAzsjKc0RZgNKeQgr8k%2Fimg.png)
+도메인 계층은 최대 128계층까지 구성할 수 있다. 계층별 길이는 최대 63바이트까지 사용할 수 있고 구분자 "."를 포함한 전체 도메인 네임의 길이는 최대 255바이트까지 사용할 수 있다.
+
+#### 루트 도메인
+도메인을 구성하는 최상위 영역이고 DNS 서버는 사용자가 쿼리 한 도메인에 대한 값을 직접 갖고 있거나 캐시에 저장된 정보를 이용해 응답한다. 해당 도메인 정보가 없다면 루트 도메인을 관리하는 DNS에 쿼리 한다.
+
+#### Top-Level Domain(TLD)
+최상위 도메인인 TLD는 IANA(Internet Assigned Numbers Authority)에서 구분한 6가지 유형으로 구분할 수 있다.
+- Generic(gTLD[^2])
+- country-code(ccTLD[^3])
+- sponsored(sTLD[^4])
+- infrastructure[^5]
+- generic-restricted(grTLS[^6])
+- test(tTLD)[^7]
+
 [출처](https://rooftoproom-whale.tistory.com/36)
+
+[^1]:ICMP : port(1)
+운영체제에서 오류메세지를 전송받는데 주로 쓰인다.
+몇몇 진단프로그램을 제외한 남지는 데이터를 교환하지 않는다.
+[^2]: com = 일반 기업체, edu = 4년제 이상 교육기관, gov = 미국 연방정부 기관, int = 국제기구, 기관 , mil = 미국 연방군사 기관 , net= 네트워크 관련 기관, org = 비영리기관
+[^3]:국가 최상위 도메인으로 ISO 3166 표준에 의해 규정된 두 글자의 국가 코드를 사용한다. 우리나하는 "kr"을 사용한다. ccTLD를 사용하는 경우, gTLD처럼 사이트 용도에 따른 코드를 사용한다. 예를 들어 일반 회사는 co.kr 정부기관은 go.kr을 사용하는 방법이다.
+[^4]:특정 목적을 위한 스폰서를 두고 있는 최상위 도메인이다. 종류오른 ".aero", ".asia", ".edu"등이 있다.
