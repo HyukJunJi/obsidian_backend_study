@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/WAN.md",
+                "file": "로드맵/16. Design and Development Principles/16. Design and Development Principles.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/WAN.md",
+                "file": "로드맵/16. Design and Development Principles/16. Design and Development Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/WAN.md",
+                "file": "로드맵/16. Design and Development Principles/16. Design and Development Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/WAN.md"
+                "file": "로드맵/16. Design and Development Principles/16. Design and Development Principles.md"
               }
             }
           },
@@ -181,8 +181,11 @@
   },
   "active": "5143f94242d1da34",
   "lastOpenFiles": [
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
+    "로드맵/16. Design and Development Principles/Design and Development Principles.md",
+    "로드맵/16. Design and Development Principles/16. Design and Development Principles.md",
+    "로드맵/15. Software Design & Architecture/Software Design & Architecture.md",
     "로드맵/1. Internet/How does the internet work/WAN.md",
+    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
     "로드맵/1. Internet/How does the internet work/Routing.md",
     "로드맵/1. Internet/How does the internet work/LAN.md",
@@ -208,10 +211,7 @@
     "로드맵/2. Learn a Language/Java8/Stream.md",
     "ddd/ddd.md",
     "ddd",
-    "Excalidraw/Drawing 2023-10-27 21.02.21.excalidraw.md",
-    "로드맵/1. Internet/1. Internet.md",
     "로드맵/10. Learn about APIs/Authentication/ddd/context.mdb",
-    "로드맵/10. Learn about APIs/Authentication/ddd/ddd.md",
     "로드맵/10. Learn about APIs/Authentication/ddd",
     "로드맵/2. Learn a Language/Java8/ddd",
     "로드맵/1. Internet/How does the internet work/fsdf",
