@@ -44,7 +44,21 @@ DNS 구조와 명명 규칙
 
 해당 과정은 DNS 시스템 관점에서 도메인에 대한 결과값을 클라이언트에 보내주는 과정이다.
 기본적으로 DNS는 분산된 데이터베이스로 서로 도와주도록 설계되었는데 자신이 가진 도메인 정보가 아니면 다른 DNS에 질의해 결과를 받는다.
+DNS 기능을 서버에 올리면 DNS서버는 기존적으로 루트 DNS 관련 정보를 가지고 있다. 클라이언트 쿼리가 자신에게 없다면 루트 DNS에 쿼리하고 루트 DSN에서는 쿼리 한 도메인의 TLD 값을 확인해 해당 TLD 값을 관리하는 DNS가 어디인지 응답한다.
+전체 과정을 보면 DNS가 중심이 되어 루트부터 상위까지 차근차근 쿼리를 보내 결과값을 알아내고 클라이언트에 응답한다. 호스트는 DNS 서버에 질의했던 방식을 <U> 재귀적 방식</U>, DNS 서버는 여러 단계로 쿼리를 상위 DNS 서버에 보내는데 이를 <U>반복적 쿼리</U>라고 한다.
 
+아래의 예를 통해 쿼리 과정을 설명해보면
+![사진](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeQCmm2%2FbtrGEmIGfyc%2FW8I7YHBJxtksN6PiQHR3l1%2Fimg.png)
+1. 사용자는 `zigispace.net`이라는 도메인 주소의 IP주소가 로컬 캐시에 저장되어 있는지 확인
+2. 로컬 캐시에 저장되어 있지 않으면 사용자 호스트에 설정된 DNS에 `zipispace.net`에 대해 쿼리
+3. DNS 서버는 `zipispace.net`이 로컬 캐시와 자체에 설정되어 있는지 직접 확인하고 없으면 해당 도메인을 찾기 위해 루트 NS에 .net에 대한 TLD 정보를 가진 도메인 주소를 쿼리
+4. 루트 DNS는 `zigispace`의 TLD인 `.net`을 관리하는 TLD 네임 서버 정보를 DNS에 응답
+5. DNS는 TLD 네임 서버에 `zigispace.net`에 대한 정보를 다시 쿼리
+6. TLD 네임 서버는 `zigspace.net`에 대한 정보를 가진 zigi 네임 서버에 대한 정보를 DNS 서버로 응답
+7. DNS는 zigi 네임 서버에 `zigispace.net`에 대한 정보를 다시 쿼리
+8. zigi 네임 서버는 `zigispace.net`에 대한 정보를 DNS 응답
+9. DNS는 `zigispace.net`에 대한 정보를 로컬 캐시에 저장하고 사용자 호스트에 `zigispace.net`에 대한 정보를 응답
+10. 사용자 호스트는 DNS로부터 받은 `zigispace.net`에 대한 IP정보를 이용해 사이트 접속
 [출처](https://rooftoproom-whale.tistory.com/36)
 
 [^1]:ICMP : port(1)
