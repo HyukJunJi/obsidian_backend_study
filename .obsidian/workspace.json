@@ -39,19 +39,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/Domain Name.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "601fd8858a4d4707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "로드맵/1. Internet/How does the internet work/DNS.md",
                 "mode": "source",
                 "backlinks": true,
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,17 +204,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "601fd8858a4d4707",
+  "active": "5b52032177d3aa6a",
   "lastOpenFiles": [
+    "로드맵/1. Internet/How does the internet work/Domain Name.md",
+    "로드맵/1. Internet/How does the internet work/IP.md",
+    "마크다운/마크다운.md",
+    "로드맵/1. Internet/How does the internet work/DNS.md",
     "로드맵/1. Internet/How does the internet work/LAN.md",
     "2023-11-01.md",
-    "로드맵/1. Internet/How does the internet work/DNS.md",
     "로드맵/1. Internet/How does the internet work/How does the internet work.md",
     "The Role of Protocols in Internet.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
-    "마크다운/마크다운.md",
-    "로드맵/1. Internet/How does the internet work/IP.md",
-    "로드맵/1. Internet/How does the internet work/Domain Name.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/패킷 전환 네트워크.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
