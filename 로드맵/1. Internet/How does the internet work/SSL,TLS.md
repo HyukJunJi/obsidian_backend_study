@@ -43,3 +43,5 @@ SSL (Secure Sockets Layer)과 TLS (Transport Layer Security)은 보안 통신 �
 
 요약하면, TLS는 SSL의 보안 결함을 해결하고, 더 강력한 보안 및 암호화를 제공하는 프로토콜로서 SSL보다 더 안전하며, 현대적인 웹 보안 표준으로 인식됩니다. 따라서 TLS를 사용하는 것이 권장되며, SSL보다는 사용을 피하는 것이 좋습니다.
 [출처](https://kanoos-stu.tistory.com/46)
+
+[spring에 tls 적용 나중에 해보기](https://www.baeldung.com/spring-tls-setup)
