@@ -127,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -220,11 +221,12 @@
   "active": "37cacd6259f0f035",
   "lastOpenFiles": [
     "로드맵/20. Cotainerization vs Virualization/Cotainerization vs Virualization.md",
-    "로드맵/20. Cotainerization vs Virualization/20. Cotainerization vs Virualization.md",
     "로드맵/20. Cotainerization vs Virualization/Docker.md",
+    "2023-11-05.md",
+    "2023-11-04.md",
+    "로드맵/20. Cotainerization vs Virualization/20. Cotainerization vs Virualization.md",
     "로드맵/1. Internet/How does the internet work/DNS.md",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
-    "2023-11-04.md",
     "2023-11-02.md",
     "2023-11-01.md",
     "로드맵/1. Internet/How does the internet work/Domain Name.md",
@@ -245,7 +247,6 @@
     "로드맵/1. Internet/How does the internet work/네트워크 스위치.md",
     "로드맵/1. Internet/How does the internet work/Routing.md",
     "로드맵/16. Design and Development Principles/16. Design and Development Principles.md",
-    "로드맵/16. Design and Development Principles/Design and Development Principles.md",
     "Untitled.png",
     "Untitled (1).png",
     "Untitled (2).png",
