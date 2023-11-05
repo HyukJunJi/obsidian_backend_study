@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/DNS.md",
+                "file": "로드맵/20. Cotainerization vs Virualization/Cotainerization vs Virualization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37cacd6259f0f035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로드맵/20. Cotainerization vs Virualization/Docker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/DNS.md",
+                "file": "로드맵/20. Cotainerization vs Virualization/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/DNS.md",
+                "file": "로드맵/20. Cotainerization vs Virualization/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/DNS.md"
+                "file": "로드맵/20. Cotainerization vs Virualization/Docker.md"
               }
             }
           },
@@ -204,14 +217,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b52032177d3aa6a",
+  "active": "37cacd6259f0f035",
   "lastOpenFiles": [
+    "로드맵/20. Cotainerization vs Virualization/Cotainerization vs Virualization.md",
+    "로드맵/20. Cotainerization vs Virualization/20. Cotainerization vs Virualization.md",
+    "로드맵/20. Cotainerization vs Virualization/Docker.md",
+    "로드맵/1. Internet/How does the internet work/DNS.md",
+    "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
+    "2023-11-04.md",
+    "2023-11-02.md",
+    "2023-11-01.md",
     "로드맵/1. Internet/How does the internet work/Domain Name.md",
     "로드맵/1. Internet/How does the internet work/IP.md",
     "마크다운/마크다운.md",
-    "로드맵/1. Internet/How does the internet work/DNS.md",
     "로드맵/1. Internet/How does the internet work/LAN.md",
-    "2023-11-01.md",
     "로드맵/1. Internet/How does the internet work/How does the internet work.md",
     "The Role of Protocols in Internet.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
@@ -227,11 +246,6 @@
     "로드맵/1. Internet/How does the internet work/Routing.md",
     "로드맵/16. Design and Development Principles/16. Design and Development Principles.md",
     "로드맵/16. Design and Development Principles/Design and Development Principles.md",
-    "로드맵/15. Software Design & Architecture/Software Design & Architecture.md",
-    "로드맵/1. Internet/How does the internet work/이더넷.md",
-    "로드맵/1. Internet/How does the internet work/Router.md",
-    "로드맵/1. Internet/How does the internet work/Packet.md",
-    "로드맵/1. Internet/How does the internet work/HTTPS.md",
     "Untitled.png",
     "Untitled (1).png",
     "Untitled (2).png",
