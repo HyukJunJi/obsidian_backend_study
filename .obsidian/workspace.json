@@ -52,7 +52,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/20. Cotainerization vs Virualization/Docker.md",
+                "file": "로드맵/19. Message Brokers/Message Brokers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "025cafc1d0b828b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로드맵/19. Message Brokers/RabbitMQ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5091888eaaea487b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로드맵/19. Message Brokers/AMQP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeee0ea1b29f4c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "미들웨어.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/20. Cotainerization vs Virualization/Docker.md",
+                "file": "로드맵/19. Message Brokers/AMQP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/20. Cotainerization vs Virualization/Docker.md",
+                "file": "로드맵/19. Message Brokers/AMQP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/20. Cotainerization vs Virualization/Docker.md"
+                "file": "로드맵/19. Message Brokers/AMQP.md"
               }
             }
           },
@@ -205,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 447.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +257,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37cacd6259f0f035",
+  "active": "9b0b8cc3402d9329",
   "lastOpenFiles": [
-    "로드맵/20. Cotainerization vs Virualization/Cotainerization vs Virualization.md",
+    "로드맵/19. Message Brokers/RabbitMQ.md",
+    "로드맵/19. Message Brokers/AMQP.md",
+    "미들웨어.md",
+    "로드맵/19. Message Brokers/Message Brokers.md",
     "로드맵/20. Cotainerization vs Virualization/Docker.md",
+    "로드맵/20. Cotainerization vs Virualization/Cotainerization vs Virualization.md",
     "2023-11-05.md",
     "2023-11-04.md",
     "로드맵/20. Cotainerization vs Virualization/20. Cotainerization vs Virualization.md",
@@ -243,10 +286,6 @@
     "Traffic.md",
     "로드맵/1. Internet/How does the internet work/WAN.md",
     "로드맵/1. Internet/How does the internet work/TCP세그먼트.md",
-    "로드맵/2. Learn a Language/Java8/Stream.md",
-    "로드맵/1. Internet/How does the internet work/네트워크 스위치.md",
-    "로드맵/1. Internet/How does the internet work/Routing.md",
-    "로드맵/16. Design and Development Principles/16. Design and Development Principles.md",
     "Untitled.png",
     "Untitled (1).png",
     "Untitled (2).png",
