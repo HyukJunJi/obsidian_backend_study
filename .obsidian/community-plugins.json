@@ -3,5 +3,8 @@
   "calendar",
   "obsidian-git",
   "make-md",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-banners",
+  "obsidian-tasks-plugin",
+  "templater-obsidian"
 ]

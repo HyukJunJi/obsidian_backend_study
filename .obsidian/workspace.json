@@ -13,106 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운/마크다운.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5143f94242d1da34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/How does the internet work/IP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b52032177d3aa6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/20. Cotainerization vs Virualization/Cotainerization vs Virualization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37cacd6259f0f035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/19. Message Brokers/Message Brokers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "025cafc1d0b828b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/19. Message Brokers/RabbitMQ.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5091888eaaea487b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/19. Message Brokers/AMQP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeee0ea1b29f4c04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "미들웨어.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59fa9ba12f9d66e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
+                "file": "DS/2023-11-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/19. Message Brokers/AMQP.md",
+                "file": "DS/2023-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/19. Message Brokers/AMQP.md",
+                "file": "DS/2023-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/19. Message Brokers/AMQP.md"
+                "file": "DS/2023-11-09.md"
               }
             }
           },
@@ -237,75 +145,83 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "210eb3a8fca9d4ae",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 447.5,
-    "collapsed": true
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9b0b8cc3402d9329",
+  "active": "ced4d41ef4b2af7d",
   "lastOpenFiles": [
-    "로드맵/19. Message Brokers/RabbitMQ.md",
-    "로드맵/19. Message Brokers/AMQP.md",
+    "DS/2023-11-08.md",
+    "DS/2023-11-07.md",
+    "DS/2023-11-06.md",
+    "DS/2023-11-09.md",
+    "DS/DailyScrum.md",
+    "DS/2023-11-05.md",
+    "Pasted image 20231027164558.png",
+    "Pasted image 20231026174512.png",
+    "Pasted image 20231026174436.png",
+    "Pasted image 20231026174419.png",
+    "Pasted image 20231026174416.png",
+    "Pasted image 20231026172349.png",
     "미들웨어.md",
-    "로드맵/19. Message Brokers/Message Brokers.md",
-    "로드맵/20. Cotainerization vs Virualization/Docker.md",
-    "로드맵/20. Cotainerization vs Virualization/Cotainerization vs Virualization.md",
-    "2023-11-05.md",
-    "2023-11-04.md",
-    "로드맵/20. Cotainerization vs Virualization/20. Cotainerization vs Virualization.md",
-    "로드맵/1. Internet/How does the internet work/DNS.md",
-    "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
-    "2023-11-02.md",
-    "2023-11-01.md",
-    "로드맵/1. Internet/How does the internet work/Domain Name.md",
-    "로드맵/1. Internet/How does the internet work/IP.md",
-    "마크다운/마크다운.md",
-    "로드맵/1. Internet/How does the internet work/LAN.md",
-    "로드맵/1. Internet/How does the internet work/How does the internet work.md",
-    "The Role of Protocols in Internet.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/패킷 전환 네트워크.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/커널.md",
-    "Traffic.md",
+    "로드맵/1. Internet/1. Internet.md",
     "로드맵/1. Internet/How does the internet work/WAN.md",
     "로드맵/1. Internet/How does the internet work/TCP세그먼트.md",
-    "Untitled.png",
-    "Untitled (1).png",
+    "로드맵/1. Internet/How does the internet work/TCP.md",
+    "로드맵/1. Internet/How does the internet work/SSL,TLS.md",
+    "로드맵/1. Internet/How does the internet work/Routing.md",
+    "로드맵/1. Internet/How does the internet work/Router.md",
+    "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
+    "로드맵/1. Internet/How does the internet work/Packet.md",
+    "로드맵/1. Internet/How does the internet work/LAN.md",
+    "로드맵/1. Internet/How does the internet work/IP.md",
+    "로드맵/1. Internet/How does the internet work/HTTPS.md",
+    "로드맵/1. Internet/How does the internet work/HTTP.md",
+    "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+    "로드맵/1. Internet/How does the internet work/Domain Name.md",
+    "로드맵/1. Internet/How does the internet work/DNS.md",
+    "로드맵/1. Internet/How does the internet work/이더넷.md",
+    "로드맵/1. Internet/How does the internet work/네트워크 스위치.md",
+    "로드맵/9. Scaling Databases/Scaling Databases.md",
+    "로드맵/8. More about Database/More about Database.md",
     "Untitled (2).png",
+    "Untitled (1).png",
+    "로드맵.canvas",
+    "EGlbINXUEAAfhUu.jfif",
+    "DS/EGlbINXUEAAfhUu 1.jfif",
+    "DS/EGlbINXUEAAfhUu.jfif",
+    "DS",
+    "Untitled.png",
     "ddd",
     "로드맵/10. Learn about APIs/Authentication/ddd/context.mdb",
     "로드맵/10. Learn about APIs/Authentication/ddd",
     "로드맵/2. Learn a Language/Java8/ddd",
     "로드맵/1. Internet/How does the internet work/fsdf",
     "rewr",
-    "로드맵/2. Learn a Language/Java8",
-    "Context/spacesLastSync.log",
-    "Context",
-    "Pasted image 20231027164558.png",
-    "로드맵/1. Internet/How does the internet work/프로토콜",
-    "로드맵.canvas",
-    "Pasted image 20231026174512.png",
-    "Pasted image 20231026174436.png",
-    "Pasted image 20231026174419.png",
-    "Pasted image 20231026174416.png",
-    "Pasted image 20231026172349.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
