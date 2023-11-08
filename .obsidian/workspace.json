@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+                "file": "로드맵/1. Internet/How does the internet work/SSL,TLS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+                "file": "로드맵/1. Internet/How does the internet work/SSL,TLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+                "file": "로드맵/1. Internet/How does the internet work/SSL,TLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/How does the internet work.md"
+                "file": "로드맵/1. Internet/How does the internet work/SSL,TLS.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "ced4d41ef4b2af7d",
   "lastOpenFiles": [
-    "로드맵/1. Internet/How does the internet work/TCP.md",
     "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+    "로드맵/1. Internet/How does the internet work/TCP.md",
     "로드맵/1. Internet/How does the internet work/Routing.md",
     "로드맵/1. Internet/How does the internet work/HTTP.md",
     "로드맵/1. Internet/How does the internet work/이더넷.md",
