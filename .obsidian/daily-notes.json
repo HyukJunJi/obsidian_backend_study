@@ -1,5 +1,6 @@
 {
   "format": "",
-  "folder": "DS",
-  "template": "DS/DailyScrum"
+  "folder": "DS/TheThingsI'veDone",
+  "template": "DS/DailyScrum",
+  "autorun": true
 }

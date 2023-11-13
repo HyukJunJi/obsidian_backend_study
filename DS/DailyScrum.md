@@ -13,11 +13,15 @@ banner: "https://outpostmagazine.com/sin-city-seoul-welcome-new-korea/seoul-skyl
 # 한다고 하고 못한 일들
 ```tasks
 not done
-heading includes tasks
+due before yesterday
 ```
 # {{yesterday}} 한 일
 ```tasks
 done
-due yesterday
+due on yesterday
+```
+# 지금까지 완료했던거 
+```tasks
+done
 ```
 [[DS/{{yesterday}}|< yesterday]] | [[DS/{{tomorrow}}|tomorrow >]]
