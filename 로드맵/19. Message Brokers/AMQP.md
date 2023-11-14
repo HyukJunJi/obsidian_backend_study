@@ -1,7 +1,7 @@
 ![사진](https://velog.velcdn.com/images/holicme7/post/129dddac-1eab-4f60-91de-6913ba3b0402/image.png)
 **AMQP (Advanced Message Queue Protocol) 다른것으로 MQTT가 있다**
 
-AMQP는 메세지 지향 [미들웨어 (MOM)](미들웨어) 을 위한 표준 응용 계층 프로토콜입니다. 간단히 말하면, **메세지 통신을 위한 규약 스펙** 입니다.
+AMQP는 메세지 지향 [미들웨어 (MOM)](미들웨어.md) 을 위한 표준 응용 계층 프로토콜입니다. 간단히 말하면, **메세지 통신을 위한 규약 스펙** 입니다.
 
 ### 구현체
 

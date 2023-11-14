@@ -1,1 +1,0 @@
-# obsidian_backend_study
