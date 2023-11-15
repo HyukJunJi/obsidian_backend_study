@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-11-14.md",
+                "file": "로드맵/1. Internet/What is HTTP/What is HTTP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-11-14.md",
+                "file": "로드맵/1. Internet/What is HTTP/What is HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-11-14.md",
+                "file": "로드맵/1. Internet/What is HTTP/What is HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-11-14.md"
+                "file": "로드맵/1. Internet/What is HTTP/What is HTTP.md"
               }
             }
           },
@@ -191,12 +190,16 @@
   },
   "active": "52967162c2cfbcb5",
   "lastOpenFiles": [
+    "로드맵/1. Internet/What is HTTP/HTTPS.md",
+    "로드맵/1. Internet/What is HTTP/HTTP.md",
+    "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+    "DS/TheThingsI'veDone/2023-11-15.md",
+    "DS/DailyScrum.md",
+    "DS/TheThingsI'veDone/2023-11-14.md",
     "Context/spacesLastSync.log",
     "Context",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
     "로드맵/1. Internet/What is HTTP/What is HTTP.md",
-    "로드맵/1. Internet/What is HTTP/HTTP.md",
-    "로드맵/1. Internet/What is HTTP/HTTPS.md",
     "Untitled.md",
     "로드맵/1. Internet/How does the internet work/미들웨어.md",
     "로드맵/1. Internet/How does the internet work/Traffic.md",
@@ -205,12 +208,10 @@
     "attachment/Untitled (1).png",
     "attachment/Untitled (2).png",
     "attachment",
-    "DS/TheThingsI'veDone/2023-11-14.md",
     "로드맵/1. Internet/What is HTTP",
     "attachment/Pasted image 20231026172349.png",
     "로드맵.canvas",
     "로드맵/1. Internet/1. Internet.md",
-    "로드맵/1. Internet/How does the internet work/How does the internet work.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
     "로드맵/1. Internet/How does the internet work/이더넷.md",
@@ -222,8 +223,6 @@
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/패킷 전환 네트워크.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/커널.md",
     "로드맵/1. Internet/How does the internet work/The Role of Protocols in Internet.md",
-    "DS/DailyScrum.md",
-    "DS/TheThingsI'veDone/2023-11-15.md",
     "DS/TheThingsI'veDone",
     "DS/2023-11-13.md",
     "attachment/Pasted image 20231027164558.png",
@@ -237,7 +236,6 @@
     "DS/EGlbINXUEAAfhUu.jfif",
     "DS",
     "ddd",
-    "로드맵/10. Learn about APIs/Authentication/ddd/context.mdb",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
