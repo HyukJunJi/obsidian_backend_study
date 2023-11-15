@@ -1,5 +1,5 @@
 ---
-tags: network, OSI 7계층
+tags: network, OSI7계층, Internet, OSI
 ---
 OSI 7계층과 TCP/IP 4계층에 대해서 얘기해 보겠습니다.
 ![사진](https://velog.velcdn.com/images%2Femplam27%2Fpost%2Fd8fffc8e-5904-45a0-bfef-6613bcdf8589%2F7%EA%B3%84%EC%B8%B5.jpg)

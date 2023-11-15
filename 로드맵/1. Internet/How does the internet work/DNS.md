@@ -1,3 +1,6 @@
+---
+tags: Internet, network
+---
 **Domain Name System**
 네트워크 프로토콜에는 실제 데이터를 실어 나르는 데이터 프로토콜과 이 데이터 프로토콜이 잘 동작하도록 도와주는 컨트롤 프로토콜이 존재한다. 컨트롤 프로토콜에는 ARP,ICMP[^1],DNS가 있다. 이 중 DNS는 
 

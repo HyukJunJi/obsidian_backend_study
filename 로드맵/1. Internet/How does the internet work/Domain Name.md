@@ -1,3 +1,6 @@
+---
+tags: Internet, network
+---
 [[IP]]에 도메인 네임에 대한 설명이 있음
 [[DNS]] 도메인 네임을 IP로 변환해줌
 ## Domain Name

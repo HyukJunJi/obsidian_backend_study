@@ -1,3 +1,6 @@
+---
+tags: network, Internet
+---
 
 패킷은 pack + bucket의 합친말.
 

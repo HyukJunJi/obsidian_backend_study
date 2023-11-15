@@ -1,3 +1,6 @@
+---
+tags: network, http, Internet
+---
 **HTTP는 HTML 문서와 같은 리소스들을 가져올 수 있도록 해주는** [[Protocol]]입니다. HTTP는 웹에서 이루어지는 모든 데이터 교환의 기초이며, 클라이언트-서버 프로토콜이기도 합니다. 클라이언트-서버 프로토콜이란 (보통 웹브라우저인) 수신자 측에 의해 요청이 초기화되는 프로토콜을 의미합니다.
 ![사진](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview/fetching_a_page.png)
 클라이언트와 서버들은 (데이터 스트림과 대조적으로) 개별적인 메시지 교환에 의해 통신합니다. 보통 브라우저인 클라이언트에 의해 전송되는 메시지를 요청(_requests_)이라고 부르며, 그에 대해 서버에서 응답으로 전송되는 메시지를 응답(_responses_)이라고 부릅니다.

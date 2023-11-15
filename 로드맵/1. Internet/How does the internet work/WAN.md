@@ -1,5 +1,5 @@
 ---
-tags: network, OSI 7계층
+tags: network, OSI7계층, Internet
 ---
 ## 광역 네트워크(WAN)
 사무실, 데이터 센터, 클라우드 애플리케이션 및 클라우드 스토리지를 서로 연결하는 기술입니다.

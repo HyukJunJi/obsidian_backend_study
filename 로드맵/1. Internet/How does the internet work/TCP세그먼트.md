@@ -1,3 +1,6 @@
+---
+tags: Internet, network, OSI
+---
 ### **Segment Structure (세그먼트 구조)**
 
 TCP는 데이터 스트림으로부터 데이터를 받아 들여 이것을 일정 단위로 분할한 뒤 TCP 헤더를 덧붙여 TCP 세그먼트를 생성한다. TCP 세그먼트는 ***IP 데이터그램**에 캡슐화되어 상대방과 주고 받게 된다.
