@@ -168,7 +168,7 @@ Signature=fe5f80f77d5fa3beca038a248ff027d0445342fe2855ddc963176630326f1024
 - Cookie: 클라이언트가 서버한테 쿠키를 보낼 때, 헤더에 담아 보낸다.
     
 
-```js
+```json
 cookie: SEARCH_SAMESITE=CgQIsZMB; ab.storage.userId.7af503ae-0c84-478f-98b0-ecfff5d67750=%7B%22g%22%3A%22browser-1629963143862-c%22%2C%22c%22%3A1629963277478%2C%22l%22%3A1629963277478%7D; ab.storage.deviceId.7af503ae-0c84-478f-98b0-ecfff5d67750=%7B%22g%22%3A%22217b5680-be7a-a876-6177-b1fc3231bdda%22%2C%22c%22%3A1629963277484%2C%22l%22%3A1629963277484%7D; OTZ=6127857_20_20__20_; ....
 ```
 

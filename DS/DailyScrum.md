@@ -24,4 +24,4 @@ due on yesterday
 ```tasks
 done
 ```
-[[DS/{{yesterday}}|< yesterday]] | [[DS/{{tomorrow}}|tomorrow >]]
+[[DS/TheThingsi'veDone/{{yesterday}}|< yesterday]] | [[DS/TheThingsi'veDone/{{tomorrow}}|tomorrow >]]
