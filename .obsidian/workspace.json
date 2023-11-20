@@ -4,151 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c3d627bdbc04ea35",
+        "id": "5b7d91f7d86d004f",
         "type": "tabs",
         "children": [
           {
-            "id": "4b50b1c6a0c63b8b",
+            "id": "3f70ce25c34a1f17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/1. Internet/What is HTTP/What is HTTP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52967162c2cfbcb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/What is HTTP/What is HTTP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39244b59b11e063d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/What is HTTP/What is HTTP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82ff624224ab3906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/1. Internet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16e9598413cfaf80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/1. Internet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7618e663ce6b66c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/1. Internet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "090669f3f4287331",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "1. Internet"
-              }
-            }
-          },
-          {
-            "id": "6d19368c5a8a5e14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/1. Internet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e9e14df10abecd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/1. Internet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f329daebabf98fac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/DNS and how it works/DNS and how it works.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c85717e9fe27c3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로드맵/1. Internet/DNS and how it works/DNS and how it works.md",
-                "mode": "source",
+                "file": "로드맵/1. Internet/DNS and how it works/DNS.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/1. Internet/DNS and how it works/DNS and how it works.md",
+                "file": "로드맵/1. Internet/DNS and how it works/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/1. Internet/DNS and how it works/DNS and how it works.md",
+                "file": "로드맵/1. Internet/DNS and how it works/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/1. Internet/DNS and how it works/DNS and how it works.md"
+                "file": "로드맵/1. Internet/DNS and how it works/DNS.md"
               }
             }
           },
@@ -302,11 +174,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c85717e9fe27c3b",
+  "active": "3f70ce25c34a1f17",
   "lastOpenFiles": [
     "로드맵/1. Internet/DNS and how it works/DNS and how it works.md",
-    "로드맵/1. Internet/DNS and how it works/DNS.md",
     "로드맵/1. Internet/1. Internet.md",
+    "로드맵/1. Internet/What is HTTP/What is HTTP.md",
+    "로드맵/1. Internet/DNS and how it works/DNS.md",
     "1. Internet/DNS and how it works.md",
     "DS/TheThingsI'veDone/2023-11-20.md",
     "로드맵/1. Internet/How does the internet work/How does the internet work.md",
@@ -317,7 +190,6 @@
     "로드맵/1. Internet/DNS and how it works.md",
     "로드맵/1. Internet/Browsers and how they work/Browsers and how they work.md",
     "로드맵/1. Internet/DNS and how it works",
-    "로드맵/1. Internet/What is HTTP/What is HTTP.md",
     "로드맵/1. Internet/What is HTTP/다이제스트.md",
     "로드맵/1. Internet/What is HTTP/entity headers.md",
     "로드맵 주소.md",
