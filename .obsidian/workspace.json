@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/1. Internet/DNS and how it works/DNS.md",
-                "mode": "preview",
+                "file": "DS/TheThingsI'veDone/2023-11-22.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/1. Internet/DNS and how it works/DNS.md",
+                "file": "DS/TheThingsI'veDone/2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/1. Internet/DNS and how it works/DNS.md",
+                "file": "DS/TheThingsI'veDone/2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/1. Internet/DNS and how it works/DNS.md"
+                "file": "DS/TheThingsI'veDone/2023-11-22.md"
               }
             }
           },
@@ -159,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,12 +176,13 @@
   },
   "active": "3f70ce25c34a1f17",
   "lastOpenFiles": [
+    "DS/TheThingsI'veDone/2023-11-20.md",
+    "DS/TheThingsI'veDone/2023-11-22.md",
+    "로드맵/1. Internet/DNS and how it works/DNS.md",
     "로드맵/1. Internet/DNS and how it works/DNS and how it works.md",
     "로드맵/1. Internet/1. Internet.md",
     "로드맵/1. Internet/What is HTTP/What is HTTP.md",
-    "로드맵/1. Internet/DNS and how it works/DNS.md",
     "1. Internet/DNS and how it works.md",
-    "DS/TheThingsI'veDone/2023-11-20.md",
     "로드맵/1. Internet/How does the internet work/How does the internet work.md",
     "로드맵/1. Internet/How does the internet work/미들웨어.md",
     "1. Internet",
@@ -208,7 +209,6 @@
     "Spaces",
     "attachment/Pasted image 20231116030835.png",
     "Pasted.md",
-    "마크다운/마크다운.md",
     "attachment/Pasted image 20231116030801.png",
     "로드맵.canvas",
     "todo",
