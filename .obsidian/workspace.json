@@ -13,14 +13,75 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-11-22.md",
+                "file": "로드맵/1. Internet/Browsers and how they work/Browsers and how they work.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0cf9602fe8cf6934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로드맵/1. Internet/Browsers and how they work/렌더링 엔진.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10e4050bc0259b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로드맵/1. Internet/Browsers and how they work/렌더링 엔진.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e15e513fdd21a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로드맵/1. Internet/Browsers and how they work/렌더링 엔진.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "324dc3a45358922c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로드맵/1. Internet/What is Domain Name/Domain Name.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "438a233f1cd037e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -74,8 +135,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-11-22.md",
+                "file": "로드맵/1. Internet/What is Domain Name/Domain Name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-11-22.md",
+                "file": "로드맵/1. Internet/What is Domain Name/Domain Name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-11-22.md"
+                "file": "로드맵/1. Internet/What is Domain Name/Domain Name.md"
               }
             }
           },
@@ -160,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +235,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f70ce25c34a1f17",
+  "active": "324dc3a45358922c",
   "lastOpenFiles": [
-    "DS/TheThingsI'veDone/2023-11-20.md",
-    "DS/TheThingsI'veDone/2023-11-22.md",
-    "로드맵/1. Internet/DNS and how it works/DNS.md",
     "로드맵/1. Internet/DNS and how it works/DNS and how it works.md",
+    "로드맵/1. Internet/DNS and how it works/DNS.md",
+    "로드맵/1. Internet/What is Domain Name/Domain Name.md",
+    "로드맵/1. Internet/What is Domain Name/What is Domain Name.md",
     "로드맵/1. Internet/1. Internet.md",
+    "로드맵/1. Internet/What is Domain Name",
+    "로드맵/1. Internet/Browsers and how they work/렌더 트리.md",
+    "로드맵/1. Internet/Browsers and how they work/렌더링 엔진.md",
+    "로드맵/1. Internet/Browsers and how they work/파싱.md",
+    "로드맵/1. Internet/Browsers and how they work/DOM tree.md",
+    "로드맵/1. Internet/Browsers and how they work/Browsers and how they work.md",
+    "[브라우저의.md",
+    "마크다운/마크다운.md",
+    "로드맵 주소.md",
+    "로드맵/1. Internet/What is HTTP/entity headers.md",
+    "로드맵/1. Internet/What is HTTP/다이제스트.md",
+    "DS/TheThingsI'veDone/2023-11-22.md",
+    "DS/TheThingsI'veDone/2023-11-20.md",
     "로드맵/1. Internet/What is HTTP/What is HTTP.md",
     "1. Internet/DNS and how it works.md",
     "로드맵/1. Internet/How does the internet work/How does the internet work.md",
@@ -189,26 +263,14 @@
     "DNS and how it works.md",
     "로드맵/1. Internet/DNS and how it works",
     "로드맵/1. Internet/DNS and how it works.md",
-    "로드맵/1. Internet/Browsers and how they work/Browsers and how they work.md",
     "로드맵/1. Internet/DNS and how it works",
-    "로드맵/1. Internet/What is HTTP/다이제스트.md",
-    "로드맵/1. Internet/What is HTTP/entity headers.md",
-    "로드맵 주소.md",
     "로드맵/1. Internet/Browsers and how they work",
     "로드맵/1. Internet/What is HTTP/HTTPS.md",
     "로드맵/1. Internet/What is HTTP/HTTP.md",
     "로드맵/1. Internet/How does the internet work/SSL,TLS.md",
-    "로드맵/1. Internet/What is HTTP/HTTP의 구조.md",
-    "로드맵/23. Server Sent Events/Server Sent Events.md",
-    "DS/TheThingsI'veDone/2023-11-19.md",
-    "DS/TheThingsI'veDone/2023-11-16.md",
-    "DS/TheThingsI'veDone/2023-11-17.md",
-    "DS/TheThingsI'veDone/2023-11-15.md",
-    "DS/TheThingsI'veDone/2023-11-14.md",
     "Spaces/Home",
     "Spaces",
     "attachment/Pasted image 20231116030835.png",
-    "Pasted.md",
     "attachment/Pasted image 20231116030801.png",
     "로드맵.canvas",
     "todo",
@@ -218,7 +280,6 @@
     "attachment/Untitled.png",
     "attachment/Untitled (1).png",
     "attachment/Untitled (2).png",
-    "attachment",
     "attachment/Pasted image 20231026172349.png",
     "attachment/Pasted image 20231027164558.png",
     "attachment/Pasted image 20231026174512.png",
