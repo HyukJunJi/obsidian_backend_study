@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "퍼즐조각/spring security/Role Based Authorization.md",
+                "file": "퍼즐조각/인터셉터.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "퍼즐조각/spring security/Role Based Authorization.md",
+                "file": "퍼즐조각/인터셉터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "퍼즐조각/spring security/Role Based Authorization.md",
+                "file": "퍼즐조각/인터셉터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "퍼즐조각/spring security/Role Based Authorization.md"
+                "file": "퍼즐조각/인터셉터.md"
               }
             }
           },
@@ -337,7 +337,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,9 +354,9 @@
   },
   "active": "db8d040051d7c78e",
   "lastOpenFiles": [
+    "퍼즐조각/spring security/Role Based Authorization.md",
     "퍼즐조각/spring security/spring security.md",
     "퍼즐조각/인터셉터.md",
-    "퍼즐조각/spring security/Role Based Authorization.md",
     "DS/TheThingsI'veDone/2023-11-23.md",
     "퍼즐조각/spring security",
     "퍼즐조각/URI와URL.md",
