@@ -65,7 +65,85 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/1. Internet/What is Domain Name/Domain Name.md",
+                "file": "로드맵/1. Internet/What is Hosting/What is Hosting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fef8990fc6b9458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로드맵/1. Internet/What is Hosting/What is Hosting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5522b4207604d333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "퍼즐조각/퍼즐조각.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fd04a2af4db2ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "퍼즐조각/퍼즐조각.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be7e1c33ba1c1542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "퍼즐조각/퍼즐조각.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23b8558fd9c84ef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "퍼즐조각/퍼즐조각.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "877cecdab66cb4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "퍼즐조각/URI와URL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -155,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/1. Internet/What is Domain Name/Domain Name.md",
+                "file": "퍼즐조각/URI와URL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/1. Internet/What is Domain Name/Domain Name.md",
+                "file": "퍼즐조각/URI와URL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/1. Internet/What is Domain Name/Domain Name.md"
+                "file": "퍼즐조각/URI와URL.md"
               }
             }
           },
@@ -235,11 +313,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "324dc3a45358922c",
+  "active": "877cecdab66cb4d5",
   "lastOpenFiles": [
+    "퍼즐조각/퍼즐조각.md",
+    "퍼즐조각/URI와URL.md",
+    "퍼즐조각/인터셉터.md",
+    "퍼즐조각/PaymentGateway.md",
+    "퍼즐조각/Logback.md",
+    "DS/TheThingsI'veDone/2023-11-23.md",
+    "퍼즐조각",
+    "DS/TheThingsI'veDone/2023-11-22.md",
+    "로드맵/1. Internet/What is Hosting/웹 호스팅.md",
+    "로드맵/1. Internet/What is Hosting/What is Hosting.md",
+    "로드맵/1. Internet/What is Hosting/서버 호스팅.md",
+    "로드맵/1. Internet/What is Hosting/클라우드 호스팅.md",
+    "로드맵/1. Internet/What is Domain Name/Domain Name.md",
+    "로드맵/1. Internet/What is Hosting",
     "로드맵/1. Internet/DNS and how it works/DNS and how it works.md",
     "로드맵/1. Internet/DNS and how it works/DNS.md",
-    "로드맵/1. Internet/What is Domain Name/Domain Name.md",
     "로드맵/1. Internet/What is Domain Name/What is Domain Name.md",
     "로드맵/1. Internet/1. Internet.md",
     "로드맵/1. Internet/What is Domain Name",
@@ -253,21 +344,10 @@
     "로드맵 주소.md",
     "로드맵/1. Internet/What is HTTP/entity headers.md",
     "로드맵/1. Internet/What is HTTP/다이제스트.md",
-    "DS/TheThingsI'veDone/2023-11-22.md",
-    "DS/TheThingsI'veDone/2023-11-20.md",
-    "로드맵/1. Internet/What is HTTP/What is HTTP.md",
-    "1. Internet/DNS and how it works.md",
-    "로드맵/1. Internet/How does the internet work/How does the internet work.md",
-    "로드맵/1. Internet/How does the internet work/미들웨어.md",
     "1. Internet",
-    "DNS and how it works.md",
     "로드맵/1. Internet/DNS and how it works",
-    "로드맵/1. Internet/DNS and how it works.md",
     "로드맵/1. Internet/DNS and how it works",
     "로드맵/1. Internet/Browsers and how they work",
-    "로드맵/1. Internet/What is HTTP/HTTPS.md",
-    "로드맵/1. Internet/What is HTTP/HTTP.md",
-    "로드맵/1. Internet/How does the internet work/SSL,TLS.md",
     "Spaces/Home",
     "Spaces",
     "attachment/Pasted image 20231116030835.png",
@@ -275,8 +355,6 @@
     "로드맵.canvas",
     "todo",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
-    "Context/spacesLastSync.log",
-    "Context",
     "attachment/Untitled.png",
     "attachment/Untitled (1).png",
     "attachment/Untitled (2).png",
