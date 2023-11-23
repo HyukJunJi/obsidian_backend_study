@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "퍼즐조각/인터셉터.md",
+                "file": "퍼즐조각/spring security/Role Based Authorization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -252,7 +252,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -272,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "퍼즐조각/인터셉터.md",
+                "file": "퍼즐조각/spring security/Role Based Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "퍼즐조각/인터셉터.md",
+                "file": "퍼즐조각/spring security/Role Based Authorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "퍼즐조각/인터셉터.md"
+                "file": "퍼즐조각/spring security/Role Based Authorization.md"
               }
             }
           },
@@ -354,10 +355,12 @@
   },
   "active": "db8d040051d7c78e",
   "lastOpenFiles": [
+    "DS/TheThingsI'veDone/2023-11-24.md",
     "퍼즐조각/spring security/Role Based Authorization.md",
-    "퍼즐조각/spring security/spring security.md",
-    "퍼즐조각/인터셉터.md",
     "DS/TheThingsI'veDone/2023-11-23.md",
+    "퍼즐조각/인터셉터.md",
+    "퍼즐조각/spring security/spring security.md",
+    "퍼즐조각/format.md",
     "퍼즐조각/spring security",
     "퍼즐조각/URI와URL.md",
     "퍼즐조각/PaymentGateway.md",
@@ -382,8 +385,6 @@
     "로드맵/1. Internet/Browsers and how they work/렌더링 엔진.md",
     "로드맵/1. Internet/Browsers and how they work/파싱.md",
     "로드맵/1. Internet/Browsers and how they work/DOM tree.md",
-    "로드맵/1. Internet/Browsers and how they work/Browsers and how they work.md",
-    "[브라우저의.md",
     "1. Internet",
     "로드맵/1. Internet/DNS and how it works",
     "로드맵/1. Internet/DNS and how it works",
