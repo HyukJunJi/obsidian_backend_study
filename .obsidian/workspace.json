@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "퍼즐조각/spring security/filterchain.md",
+                "file": "퍼즐조각/spring security/spring security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "퍼즐조각/spring security/filterchain.md",
+                "file": "퍼즐조각/spring security/spring security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "퍼즐조각/spring security/filterchain.md",
+                "file": "퍼즐조각/spring security/spring security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "퍼즐조각/spring security/filterchain.md"
+                "file": "퍼즐조각/spring security/spring security.md"
               }
             }
           },
@@ -190,9 +190,10 @@
   },
   "active": "670f5885d18dd494",
   "lastOpenFiles": [
+    "퍼즐조각/spring security/filterchain.md",
+    "퍼즐조각/spring security/Role Based Authorization.md",
     "attachment/Pasted image 20231128222704.png",
     "퍼즐조각/spring security/spring security.md",
-    "퍼즐조각/spring security/filterchain.md",
     "DS/TheThingsI'veDone/2023-11-28.md",
     "DS/TheThingsI'veDone/2023-11-27.md",
     "퍼즐조각/spring security/HTTP Basic Authentication/구현.md",
@@ -201,7 +202,6 @@
     "퍼즐조각/필터.md",
     "퍼즐조각/인터셉터.md",
     "DS/TheThingsI'veDone/2023-11-23.md",
-    "퍼즐조각/spring security/Role Based Authorization.md",
     "퍼즐조각/spring security/HTTP Basic Authentication/이론.md",
     "퍼즐조각/spring security/HTTP Basic Authentication/설정.md",
     "DS/TheThingsI'veDone/2023-11-16.md",
@@ -236,7 +236,6 @@
     "attachment/Pasted image 20231026172349.png",
     "attachment/Pasted image 20231027164558.png",
     "attachment/Pasted image 20231026174512.png",
-    "attachment/Pasted image 20231026174436.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
