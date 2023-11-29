@@ -32,9 +32,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "871b190468231d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "퍼즐조각/spring security/spring security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3afbc837fd14443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "퍼즐조각/spring security/spring security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d346070b0a4c6a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS/TheThingsI'veDone/2023-11-29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -108,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "퍼즐조각/spring security/spring security.md",
+                "file": "DS/TheThingsI'veDone/2023-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "퍼즐조각/spring security/spring security.md",
+                "file": "DS/TheThingsI'veDone/2023-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "퍼즐조각/spring security/spring security.md"
+                "file": "DS/TheThingsI'veDone/2023-11-29.md"
               }
             }
           },
@@ -173,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,28 +227,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "670f5885d18dd494",
+  "active": "d346070b0a4c6a3c",
   "lastOpenFiles": [
-    "퍼즐조각/spring security/filterchain.md",
-    "퍼즐조각/spring security/Role Based Authorization.md",
-    "attachment/Pasted image 20231128222704.png",
-    "퍼즐조각/spring security/spring security.md",
     "DS/TheThingsI'veDone/2023-11-28.md",
+    "DS/TheThingsI'veDone/2023-11-29.md",
+    "퍼즐조각/spring security/spring security.md",
+    "퍼즐조각/spring security/Role Based Authorization.md",
+    "퍼즐조각/spring security/Authorize HttpServletRequests.md",
+    "퍼즐조각/spring security/로그인 실패 시 오류 메세지.md",
+    "퍼즐조각/spring security/HTTP Basic Authentication/이론.md",
+    "퍼즐조각/spring security/HTTP Basic Authentication/HTTP Basic Authentication.md",
+    "퍼즐조각/PaymentGateway.md",
+    "퍼즐조각/spring security/filterchain.md",
+    "attachment/Pasted image 20231128222704.png",
     "DS/TheThingsI'veDone/2023-11-27.md",
     "퍼즐조각/spring security/HTTP Basic Authentication/구현.md",
-    "퍼즐조각/spring security/HTTP Basic Authentication/HTTP Basic Authentication.md",
     "DS/TheThingsI'veDone/2023-11-24.md",
     "퍼즐조각/필터.md",
     "퍼즐조각/인터셉터.md",
     "DS/TheThingsI'veDone/2023-11-23.md",
-    "퍼즐조각/spring security/HTTP Basic Authentication/이론.md",
     "퍼즐조각/spring security/HTTP Basic Authentication/설정.md",
     "DS/TheThingsI'veDone/2023-11-16.md",
     "퍼즐조각/퍼즐조각.md",
     "로드맵/2. Learn a Language/Java8/Stream2.md",
     "퍼즐조각/Logback.md",
     "퍼즐조각/URI와URL.md",
-    "퍼즐조각/PaymentGateway.md",
     "마크다운/마크다운.md",
     "퍼즐조각/spring security/HTTP Basic Authentication",
     "퍼즐조각/format.md",
@@ -217,8 +259,6 @@
     "퍼즐조각/로깅.md",
     "퍼즐조각",
     "DS/TheThingsI'veDone/2023-11-22.md",
-    "로드맵/1. Internet/What is Hosting/웹 호스팅.md",
-    "로드맵/1. Internet/What is Hosting/What is Hosting.md",
     "로드맵/1. Internet/What is Hosting",
     "로드맵/1. Internet/What is Domain Name",
     "1. Internet",
