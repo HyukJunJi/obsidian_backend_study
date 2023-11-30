@@ -9,6 +9,7 @@ banner: "https://outpostmagazine.com/sin-city-seoul-welcome-new-korea/seoul-skyl
 # {{date}} 해야 할 일
 
 - [ ] #task 옵시디언 1시간 작성📅 {{date}}
+- [ ] #task 인프런 고급편 1시간 듣기📅 {{date}}
 
 # 한다고 하고 못한 일들
 ```tasks

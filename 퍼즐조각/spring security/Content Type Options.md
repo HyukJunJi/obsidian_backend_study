@@ -1,0 +1,2 @@
+[출처](https://docs.spring.io/spring-security/reference/servlet/exploits/headers.html#servlet-headers-content-type-options)
+[sniffing attack](https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Headers_Cheat_Sheet.html#x-content-type-options)

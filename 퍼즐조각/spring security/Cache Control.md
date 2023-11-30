@@ -1,0 +1,1 @@
+[출처](https://docs.spring.io/spring-security/reference/servlet/exploits/headers.html#servlet-headers-cache-control)
