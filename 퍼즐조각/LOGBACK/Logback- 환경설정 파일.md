@@ -215,6 +215,36 @@ java jar -Dlogging.config=file:/path/to/config.xml MyApp1.jar
 `<appender>`요소는 다음을 포함할 수 있습니다.
 - `<layout>`
 	- 사용자의 요청에 따라 로그 메세지의 포맷을 지정합니다.
-	- 레이아웃 클래스가 `PatternLay`
+	- 레이아웃 클래스가 `PatternLayout`인 경우 기본 클래스 매칭 규칙으로 생략이 가능합니다.
+- `<encoder>`
+	- `Appender`에 포함되어 사용자가 지정한 형식으로 표현될 로그 메세지를 변환하는 역할 담당합니다.
+	- 바이트를 소유하고 있는 `appender`가 관리하는 `OutputStream`에 쓸 시간과 내용을 제어 할 수 있습니다.
+	- `FileAppender`와 하위 클래스는 `encoder`를 필요로하므로 `layout`대신 `encoder`를 사용하면 됩니다.
+	- 인코더 클래스가 `PatternlayoutEncoder`인 경우 기본 클래스 매핑 규칙에 지정된 대로 클래스 속성을 생략 가능합니다.
+- `<filter>`
+	- 해당 패키지에 반드시 로그를 찍지 않고 필터링이 필요한 경우에 사용하는 기능입니다.
+	- 예를 들어, 레벨 필터를 추가해서 error 단계인 로그만 찍도록 설정 가능합니다.
+##### 어펜더 로깅 중복
+
+다음과 같이 `appender-ref` 설정하면 로깅이 중복이 됩니다.
+```xml
+<configuration>
+
+  <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <logger name="chapters.configuration">
+    <appender-ref ref="STDOUT" />
+  </logger>
+
+  <root level="debug">
+    <appender-ref ref="STDOUT" />
+  </root>
+</configuration>
+```
+
 
 [base.xml, default.xml 위치](https://jaehyun8719.github.io/2019/05/17/springboot/logback-spring/)
