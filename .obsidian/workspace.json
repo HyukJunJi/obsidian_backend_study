@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "퍼즐조각/LOGBACK/LOGBACK.md",
+                "file": "DS/TheThingsI'veDone/2023-12-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "퍼즐조각/LOGBACK/LOGBACK.md",
+                "file": "DS/TheThingsI'veDone/2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "퍼즐조각/LOGBACK/LOGBACK.md",
+                "file": "DS/TheThingsI'veDone/2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "퍼즐조각/LOGBACK/LOGBACK.md"
+                "file": "DS/TheThingsI'veDone/2023-12-02.md"
               }
             }
           },
@@ -254,14 +254,15 @@
   },
   "active": "3e485130a9de25fc",
   "lastOpenFiles": [
+    "DS/TheThingsI'veDone/2023-12-03.md",
     "DS/TheThingsI'veDone/2023-12-01.md",
     "DS/TheThingsI'veDone/2023-12-02.md",
-    "퍼즐조각/필터.md",
     "퍼즐조각/LOGBACK/Logback- 주의점, 구성, 상속, 파라미터 처리.md",
+    "퍼즐조각/LOGBACK/LOGBACK.md",
+    "퍼즐조각/필터.md",
     "퍼즐조각/spring security/spring security.md",
     "퍼즐조각/필터 등록.md",
     "퍼즐조각/LOGBACK/Logback- 환경설정 파일.md",
-    "퍼즐조각/LOGBACK/LOGBACK.md",
     "퍼즐조각/PathPattern.md",
     "퍼즐조각/format.md",
     "DS/TheThingsI'veDone/2023-11-30.md",
@@ -280,7 +281,6 @@
     "퍼즐조각/spring security/로그인 실패 시 오류 메세지.md",
     "퍼즐조각/spring security/HTTP Basic Authentication/이론.md",
     "퍼즐조각/spring security/HTTP Basic Authentication/설정.md",
-    "퍼즐조각/퍼즐조각.md",
     "attachment/Pasted image 20231130112448.png",
     "attachment/Pasted image 20231130112431.png",
     "attachment/Pasted image 20231130112416.png",
