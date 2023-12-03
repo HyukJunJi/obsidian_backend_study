@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "퍼즐조각/Untitled.md",
+                "file": "퍼즐조각/Spring WebFlu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "퍼즐조각/Untitled.md",
+                "file": "퍼즐조각/Spring WebFlu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "퍼즐조각/Untitled.md",
+                "file": "퍼즐조각/Spring WebFlu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "퍼즐조각/Untitled.md"
+                "file": "퍼즐조각/Spring WebFlu.md"
               }
             }
           },
@@ -267,8 +267,10 @@
   },
   "active": "9ec712c7e837554e",
   "lastOpenFiles": [
+    "퍼즐조각/URI와URL.md",
+    "퍼즐조각/PaymentGateway.md",
+    "퍼즐조각/Spring WebFlu.md",
     "DS/TheThingsI'veDone/2023-12-03.md",
-    "퍼즐조각/Untitled.md",
     "DS/TheThingsI'veDone/2023-12-02.md",
     "DS/TheThingsI'veDone/{{yesterday}}.md",
     "DS/TheThingsI'veDone/2023-11-14.md",
@@ -293,8 +295,6 @@
     "DS/TheThingsI'veDone/2023-11-28.md",
     "DS/DailyScrum.md",
     "퍼즐조각/LOGBACK",
-    "퍼즐조각/spring security/Spring Security 6.2 build Gradle.md",
-    "퍼즐조각/spring security/HTTP Basic Authentication/구현.md",
     "attachment/Pasted image 20231130112448.png",
     "attachment/Pasted image 20231130112431.png",
     "attachment/Pasted image 20231130112416.png",
