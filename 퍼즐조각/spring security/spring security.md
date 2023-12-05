@@ -59,5 +59,7 @@ Spring Boot와 Spring Security의 기본 배치는 런타임 시 다음 동작�
 [[Authorize HttpServletRequests]]
 [[Servlet Authentication Architecture]]
 [Spring Security 6.2 build Gradle](obsidian://open?vault=%EB%A1%9C%EB%93%9C%EB%A7%B5%20%EA%B3%B5%EB%B6%80&file=%ED%8D%BC%EC%A6%90%EC%A1%B0%EA%B0%81%2Fspring%20security%2FSpring%20Security%206.2%20build%20Gradle)
-
+chain of responsiblity pattern
 [이거 한번보자](https://velog.io/@shon5544/Spring-Security-1.-%EC%84%A4%EC%A0%95)
+[filter chain](https://nahwasa.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-20%EC%97%90%EC%84%9C-30-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EB%B3%80%EA%B2%BD%EC%A0%90)
+

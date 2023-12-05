@@ -1,0 +1,2 @@
+[왜 lazy, eager 그리고 프록시](https://m.blog.naver.com/adamdoha/222111782623)
+[영속성 이란 김영한 +JPA공부](https://velog.io/@sooyoungh/%EC%98%81%EC%86%8D%EC%84%B1%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
