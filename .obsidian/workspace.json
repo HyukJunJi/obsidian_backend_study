@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-05.md",
+                "file": "DS/TheThingsI'veDone/2023-12-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -166,7 +166,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-05.md",
+                "file": "DS/TheThingsI'veDone/2023-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-05.md",
+                "file": "DS/TheThingsI'veDone/2023-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-05.md"
+                "file": "DS/TheThingsI'veDone/2023-12-06.md"
               }
             }
           },
@@ -267,8 +268,9 @@
   },
   "active": "9ec712c7e837554e",
   "lastOpenFiles": [
-    "알고리즘/알고리즘.md",
     "DS/TheThingsI'veDone/2023-12-05.md",
+    "DS/TheThingsI'veDone/2023-12-06.md",
+    "알고리즘/알고리즘.md",
     "퍼즐조각/spring security/Architecture.md",
     "퍼즐조각/spring security/spring security.md",
     "퍼즐조각/spring security/Authorize HttpServletRequests.md",
@@ -294,7 +296,6 @@
     "퍼즐조각/필터.md",
     "퍼즐조각/필터 등록.md",
     "퍼즐조각/PathPattern.md",
-    "퍼즐조각/format.md",
     "퍼즐조각/LOGBACK",
     "attachment/Pasted image 20231130112448.png",
     "attachment/Pasted image 20231130112431.png",
