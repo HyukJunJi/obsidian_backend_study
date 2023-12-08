@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-07.md",
+                "file": "Redis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "redis",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-07.md",
+                "file": "Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-07.md",
+                "file": "Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-07.md"
+                "file": "Redis.md"
               }
             }
           },
@@ -269,15 +269,16 @@
   "active": "9ec712c7e837554e",
   "lastOpenFiles": [
     "DS/TheThingsI'veDone/2023-12-06.md",
-    "DS/TheThingsI'veDone/2023-12-07.md",
+    "Redis.md",
     "DS/TheThingsI'veDone/2023-12-05.md",
+    "DS/TheThingsI'veDone/2023-12-04.md",
+    "DS/TheThingsI'veDone/2023-12-07.md",
     "알고리즘/알고리즘.md",
     "퍼즐조각/spring security/Architecture.md",
     "퍼즐조각/spring security/spring security.md",
     "퍼즐조각/spring security/Authorize HttpServletRequests.md",
     "퍼즐조각/spring security/Role Based Authorization.md",
     "퍼즐조각/spring security/Spring Security 6.2 build Gradle.md",
-    "DS/TheThingsI'veDone/2023-12-04.md",
     "DS/TheThingsI'veDone/2023-12-03.md",
     "퍼즐조각/JPA/유용한 JPA 글.md",
     "퍼즐조각/JPA/JPA.md",
@@ -295,7 +296,6 @@
     "퍼즐조각/LOGBACK/Logback- 주의점, 구성, 상속, 파라미터 처리.md",
     "퍼즐조각/LOGBACK/LOGBACK.md",
     "퍼즐조각/필터.md",
-    "퍼즐조각/필터 등록.md",
     "퍼즐조각/LOGBACK",
     "attachment/Pasted image 20231130112448.png",
     "attachment/Pasted image 20231130112431.png",
