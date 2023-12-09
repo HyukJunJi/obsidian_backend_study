@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis.md",
+                "file": "DS/TheThingsI'veDone/2023-12-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redis",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis.md",
+                "file": "DS/TheThingsI'veDone/2023-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis.md",
+                "file": "DS/TheThingsI'veDone/2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis.md"
+                "file": "DS/TheThingsI'veDone/2023-12-09.md"
               }
             }
           },
@@ -268,8 +267,9 @@
   },
   "active": "9ec712c7e837554e",
   "lastOpenFiles": [
-    "DS/TheThingsI'veDone/2023-12-06.md",
     "Redis.md",
+    "DS/TheThingsI'veDone/2023-12-09.md",
+    "DS/TheThingsI'veDone/2023-12-06.md",
     "DS/TheThingsI'veDone/2023-12-05.md",
     "DS/TheThingsI'veDone/2023-12-04.md",
     "DS/TheThingsI'veDone/2023-12-07.md",
@@ -295,7 +295,6 @@
     "퍼즐조각/LOGBACK/Logback- 환경설정 파일.md",
     "퍼즐조각/LOGBACK/Logback- 주의점, 구성, 상속, 파라미터 처리.md",
     "퍼즐조각/LOGBACK/LOGBACK.md",
-    "퍼즐조각/필터.md",
     "퍼즐조각/LOGBACK",
     "attachment/Pasted image 20231130112448.png",
     "attachment/Pasted image 20231130112431.png",
