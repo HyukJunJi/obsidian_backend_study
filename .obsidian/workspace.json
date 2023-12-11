@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-10.md",
+                "file": "DS/TheThingsI'veDone/2023-12-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-10.md",
+                "file": "DS/TheThingsI'veDone/2023-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-10.md",
+                "file": "DS/TheThingsI'veDone/2023-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-10.md"
+                "file": "DS/TheThingsI'veDone/2023-12-12.md"
               }
             }
           },
@@ -281,11 +281,12 @@
   },
   "active": "008fb8c2de6ba023",
   "lastOpenFiles": [
+    "DS/TheThingsI'veDone/2023-12-10.md",
+    "DS/TheThingsI'veDone/2023-12-12.md",
     "DS/TheThingsI'veDone/2023-12-06.md",
     "DS/TheThingsI'veDone/2023-12-07.md",
     "DS/TheThingsI'veDone/2023-12-05.md",
     "DS/TheThingsI'veDone/2023-12-04.md",
-    "DS/TheThingsI'veDone/2023-12-10.md",
     "DS/TheThingsI'veDone/2023-12-09.md",
     "로드맵 주소.md",
     "로드맵/3. Version Control Systems/Version Control Systems.md",
@@ -307,7 +308,6 @@
     "로드맵/1. Internet/How does the internet work/Router.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
     "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/커널.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/패킷 전환 네트워크.md",
     "알고리즘",
     "퍼즐조각/JPA",
     "퍼즐조각/LOGBACK",
