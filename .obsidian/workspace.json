@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-12.md",
+                "file": "퍼즐조각/인터셉터.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -179,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-12.md",
+                "file": "퍼즐조각/인터셉터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-12.md",
+                "file": "퍼즐조각/인터셉터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-12.md"
+                "file": "퍼즐조각/인터셉터.md"
               }
             }
           },
@@ -281,8 +280,11 @@
   },
   "active": "008fb8c2de6ba023",
   "lastOpenFiles": [
-    "DS/TheThingsI'veDone/2023-12-10.md",
+    "퍼즐조각/로깅.md",
+    "퍼즐조각/필터.md",
+    "퍼즐조각/spring security/filterchain.md",
     "DS/TheThingsI'veDone/2023-12-12.md",
+    "DS/TheThingsI'veDone/2023-12-10.md",
     "DS/TheThingsI'veDone/2023-12-06.md",
     "DS/TheThingsI'veDone/2023-12-07.md",
     "DS/TheThingsI'veDone/2023-12-05.md",
@@ -305,9 +307,6 @@
     "로드맵/1. Internet/DNS and how it works/DNS and how it works.md",
     "로드맵/1. Internet/DNS and how it works/DNS.md",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
-    "로드맵/1. Internet/How does the internet work/Router.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/3계층.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/커널.md",
     "알고리즘",
     "퍼즐조각/JPA",
     "퍼즐조각/LOGBACK",
