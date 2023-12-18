@@ -179,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,8 +280,10 @@
   },
   "active": "008fb8c2de6ba023",
   "lastOpenFiles": [
-    "DS/TheThingsI'veDone/2023-12-15.md",
+    "문제 해결/.md",
     "DS/TheThingsI'veDone/2023-12-18.md",
+    "문제 해결",
+    "DS/TheThingsI'veDone/2023-12-15.md",
     "DS/TheThingsI'veDone/2023-12-13.md",
     "퍼즐조각/spring security/Untitled.md",
     "퍼즐조각/인터셉터.md",
@@ -306,7 +307,6 @@
     "로드맵/1. Internet/How does the internet work/TCP세그먼트.md",
     "로드맵/1. Internet/How does the internet work/TCP.md",
     "로드맵/1. Internet/How does the internet work/SSL,TLS.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/OSI 7계층 TCP,IP 4계층.md",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
     "알고리즘",
     "퍼즐조각/JPA",
@@ -323,7 +323,6 @@
     "로드맵/1. Internet/What is Hosting",
     "로드맵/1. Internet/What is Domain Name",
     "1. Internet",
-    "로드맵/1. Internet/DNS and how it works",
     "attachment/Pasted image 20231116030835.png",
     "attachment/Pasted image 20231116030801.png",
     "로드맵.canvas",
