@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-20.md",
+                "file": "DS/TheThingsI'veDone/2023-12-22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-20.md",
+                "file": "DS/TheThingsI'veDone/2023-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-20.md",
+                "file": "DS/TheThingsI'veDone/2023-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-20.md"
+                "file": "DS/TheThingsI'veDone/2023-12-22.md"
               }
             }
           },
@@ -281,8 +281,10 @@
   },
   "active": "008fb8c2de6ba023",
   "lastOpenFiles": [
-    "문제 해결/쿼리문.md",
+    "DS/TheThingsI'veDone/2023-12-21.md",
+    "DS/TheThingsI'veDone/2023-12-22.md",
     "DS/TheThingsI'veDone/2023-12-20.md",
+    "문제 해결/쿼리문.md",
     "DS/TheThingsI'veDone/2023-12-18.md",
     "문제 해결/.md",
     "문제 해결",
@@ -306,8 +308,6 @@
     "로드맵/2. Learn a Language/2. Learn a Language.md",
     "로드맵/2. Learn a Language/Java8/Stream.md",
     "로드맵/1. Internet/How does the internet work/WAN.md",
-    "로드맵/1. Internet/How does the internet work/Traffic.md",
-    "로드맵/1. Internet/How does the internet work/TCP세그먼트.md",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
     "알고리즘",
     "퍼즐조각/JPA",
