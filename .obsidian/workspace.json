@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-30.md",
+                "file": "DS/TheThingsI'veDone/2024-01-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-30.md",
+                "file": "DS/TheThingsI'veDone/2024-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-30.md",
+                "file": "DS/TheThingsI'veDone/2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-30.md"
+                "file": "DS/TheThingsI'veDone/2024-01-01.md"
               }
             }
           },
@@ -294,8 +294,9 @@
   },
   "active": "70959a3bcc40cc28",
   "lastOpenFiles": [
-    "DS/TheThingsI'veDone/2023-12-28.md",
     "DS/TheThingsI'veDone/2023-12-30.md",
+    "DS/TheThingsI'veDone/2024-01-01.md",
+    "DS/TheThingsI'veDone/2023-12-28.md",
     "DS/TheThingsI'veDone/2023-12-27.md",
     "DS/TheThingsI'veDone/2023-12-25.md",
     "DS/TheThingsI'veDone/2023-12-26.md",
@@ -320,7 +321,6 @@
     "DS/TheThingsI'veDone/2023-12-06.md",
     "DS/TheThingsI'veDone/2023-12-07.md",
     "DS/TheThingsI'veDone/2023-12-05.md",
-    "DS/TheThingsI'veDone/2023-12-04.md",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
     "알고리즘",
     "퍼즐조각/JPA",
