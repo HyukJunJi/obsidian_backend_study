@@ -117,7 +117,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-01-15.md",
+                "file": "디자인패턴/디자인패턴.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a21bcae01ebf7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "디자인패턴/디자인패턴.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55ea83ae9543dc46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "디자인패턴/디자인패턴.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e047430cb153544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "디자인패턴/디자인패턴.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -192,8 +231,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-01-15.md",
+                "file": "디자인패턴/디자인패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-01-15.md",
+                "file": "디자인패턴/디자인패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-01-15.md"
+                "file": "디자인패턴/디자인패턴.md"
               }
             }
           },
@@ -292,10 +330,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70959a3bcc40cc28",
+  "active": "3e047430cb153544",
   "lastOpenFiles": [
-    "DS/TheThingsI'veDone/2024-01-13.md",
+    "디자인패턴/전략패턴.md",
+    "디자인패턴/디자인패턴.md",
+    "디자인패턴/템플릿 메서드 패턴.md",
     "DS/TheThingsI'veDone/2024-01-15.md",
+    "디자인패턴",
+    "DS/TheThingsI'veDone/2024-01-13.md",
     "DS/TheThingsI'veDone/2024-01-07.md",
     "DS/TheThingsI'veDone/2024-01-05.md",
     "DS/TheThingsI'veDone/2024-01-04.md",
@@ -318,9 +360,6 @@
     "문제 해결",
     "DS/TheThingsI'veDone/2023-12-15.md",
     "DS/TheThingsI'veDone/2023-12-13.md",
-    "퍼즐조각/spring security/Untitled.md",
-    "퍼즐조각/인터셉터.md",
-    "퍼즐조각/로깅.md",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
     "알고리즘",
     "퍼즐조각/JPA",
@@ -336,7 +375,6 @@
     "퍼즐조각",
     "로드맵/1. Internet/What is Hosting",
     "로드맵/1. Internet/What is Domain Name",
-    "1. Internet",
     "attachment/Pasted image 20231116030835.png",
     "attachment/Pasted image 20231116030801.png",
     "로드맵.canvas",
