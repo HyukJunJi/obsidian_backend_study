@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인패턴/디자인패턴.md",
+                "file": "디자인패턴/데코레이트 패턴.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/디자인패턴.md",
+                "file": "디자인패턴/데코레이트 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/디자인패턴.md",
+                "file": "디자인패턴/데코레이트 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인패턴/디자인패턴.md"
+                "file": "디자인패턴/데코레이트 패턴.md"
               }
             }
           },
@@ -332,9 +332,13 @@
   },
   "active": "3e047430cb153544",
   "lastOpenFiles": [
-    "디자인패턴/전략패턴.md",
+    "디자인패턴/프록시 패턴.md",
+    "디자인패턴/데코레이트 패턴.md",
+    "디자인패턴/프록시.md",
     "디자인패턴/디자인패턴.md",
     "디자인패턴/템플릿 메서드 패턴.md",
+    "디자인패턴/콜백패턴.md",
+    "디자인패턴/전략패턴.md",
     "DS/TheThingsI'veDone/2024-01-15.md",
     "디자인패턴",
     "DS/TheThingsI'veDone/2024-01-13.md",
@@ -355,11 +359,7 @@
     "DS/TheThingsI'veDone/2023-12-22.md",
     "DS/TheThingsI'veDone/2023-12-20.md",
     "문제 해결/쿼리문.md",
-    "DS/TheThingsI'veDone/2023-12-18.md",
-    "문제 해결/.md",
     "문제 해결",
-    "DS/TheThingsI'veDone/2023-12-15.md",
-    "DS/TheThingsI'veDone/2023-12-13.md",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
     "알고리즘",
     "퍼즐조각/JPA",
