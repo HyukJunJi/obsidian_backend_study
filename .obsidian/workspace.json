@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인패턴/데코레이트 패턴.md",
+                "file": "디자인패턴/프록시.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/데코레이트 패턴.md",
+                "file": "디자인패턴/프록시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/데코레이트 패턴.md",
+                "file": "디자인패턴/프록시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인패턴/데코레이트 패턴.md"
+                "file": "디자인패턴/프록시.md"
               }
             }
           },
@@ -332,8 +332,12 @@
   },
   "active": "3e047430cb153544",
   "lastOpenFiles": [
-    "디자인패턴/프록시 패턴.md",
+    "attachment/Pasted image 20240117000459.png",
+    "attachment/Pasted image 20240117000456.png",
+    "attachment/Pasted image 20240117000358.png",
+    "attachment/Pasted image 20240117000327.png",
     "디자인패턴/데코레이트 패턴.md",
+    "디자인패턴/프록시 패턴.md",
     "디자인패턴/프록시.md",
     "디자인패턴/디자인패턴.md",
     "디자인패턴/템플릿 메서드 패턴.md",
@@ -358,7 +362,6 @@
     "DS/TheThingsI'veDone/2023-12-21.md",
     "DS/TheThingsI'veDone/2023-12-22.md",
     "DS/TheThingsI'veDone/2023-12-20.md",
-    "문제 해결/쿼리문.md",
     "문제 해결",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
     "알고리즘",
@@ -375,10 +378,7 @@
     "퍼즐조각",
     "로드맵/1. Internet/What is Hosting",
     "로드맵/1. Internet/What is Domain Name",
-    "attachment/Pasted image 20231116030835.png",
-    "attachment/Pasted image 20231116030801.png",
     "로드맵.canvas",
-    "attachment/Untitled.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
