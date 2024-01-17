@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인패턴/프록시.md",
+                "file": "DS/TheThingsI'veDone/2024-01-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -231,7 +231,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -251,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/프록시.md",
+                "file": "DS/TheThingsI'veDone/2024-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/프록시.md",
+                "file": "DS/TheThingsI'veDone/2024-01-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인패턴/프록시.md"
+                "file": "DS/TheThingsI'veDone/2024-01-18.md"
               }
             }
           },
@@ -332,13 +333,15 @@
   },
   "active": "3e047430cb153544",
   "lastOpenFiles": [
+    "디자인패턴/프록시.md",
+    "DS/TheThingsI'veDone/2024-01-18.md",
+    "attachment/4. 프록시 패턴과 데코레이터 패턴.pdf",
     "attachment/Pasted image 20240117000459.png",
     "attachment/Pasted image 20240117000456.png",
     "attachment/Pasted image 20240117000358.png",
     "attachment/Pasted image 20240117000327.png",
     "디자인패턴/데코레이트 패턴.md",
     "디자인패턴/프록시 패턴.md",
-    "디자인패턴/프록시.md",
     "디자인패턴/디자인패턴.md",
     "디자인패턴/템플릿 메서드 패턴.md",
     "디자인패턴/콜백패턴.md",
@@ -372,12 +375,10 @@
     "attachment/Pasted image 20231130112416.png",
     "attachment/Pasted image 20231130112259.png",
     "attachment/Pasted image 20231130112208.png",
-    "attachment/Pasted image 20231128222704.png",
     "퍼즐조각/spring security/HTTP Basic Authentication",
     "퍼즐조각/spring security",
     "퍼즐조각",
     "로드맵/1. Internet/What is Hosting",
-    "로드맵/1. Internet/What is Domain Name",
     "로드맵.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
