@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-01-20.md",
+                "file": "DS/TheThingsI'veDone/2024-01-22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-01-20.md",
+                "file": "DS/TheThingsI'veDone/2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-01-20.md",
+                "file": "DS/TheThingsI'veDone/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-01-20.md"
+                "file": "DS/TheThingsI'veDone/2024-01-22.md"
               }
             }
           },
@@ -333,8 +333,9 @@
   },
   "active": "3e047430cb153544",
   "lastOpenFiles": [
-    "DS/TheThingsI'veDone/2024-01-18.md",
     "DS/TheThingsI'veDone/2024-01-20.md",
+    "DS/TheThingsI'veDone/2024-01-22.md",
+    "DS/TheThingsI'veDone/2024-01-18.md",
     "디자인패턴/프록시.md",
     "attachment/4. 프록시 패턴과 데코레이터 패턴.pdf",
     "attachment/Pasted image 20240117000459.png",
@@ -364,7 +365,6 @@
     "DS/TheThingsI'veDone/2023-12-24.md",
     "퍼즐조각/spring security/spring security.md",
     "DS/TheThingsI'veDone/2023-12-21.md",
-    "DS/TheThingsI'veDone/2023-12-22.md",
     "문제 해결",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
     "알고리즘",
