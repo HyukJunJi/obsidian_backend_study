@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-07.md",
+                "file": "로드맵/3. Version Control Systems/Version Control Systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -231,8 +231,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-07.md",
+                "file": "로드맵/3. Version Control Systems/Version Control Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-07.md",
+                "file": "로드맵/3. Version Control Systems/Version Control Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-07.md"
+                "file": "로드맵/3. Version Control Systems/Version Control Systems.md"
               }
             }
           },
@@ -333,6 +332,18 @@
   },
   "active": "3e047430cb153544",
   "lastOpenFiles": [
+    "로드맵/2. Learn a Language/2. Learn a Language.md",
+    "로드맵/2. Learn a Language/Java8/Stream2.md",
+    "로드맵/2. Learn a Language/Java8/Stream.md",
+    "로드맵/2. Learn a Language/Java8/Java8.md",
+    "로드맵/1. Internet/What is HTTP/What is HTTP.md",
+    "로드맵/1. Internet/What is HTTP/HTTPS.md",
+    "로드맵/1. Internet/What is HTTP/HTTP의 구조.md",
+    "로드맵/1. Internet/What is HTTP/HTTP.md",
+    "로드맵/1. Internet/What is HTTP/entity headers.md",
+    "로드맵/1. Internet/What is HTTP/다이제스트.md",
+    "로드맵/21. GraphQL/GraphQL.md",
+    "1. Internet/DNS and how it works.md",
     "DS/TheThingsI'veDone/2024-02-07.md",
     "DS/TheThingsI'veDone/2024-02-06.md",
     "DS/TheThingsI'veDone/2024-02-05.md",
@@ -352,19 +363,7 @@
     "attachment/Pasted image 20240117000358.png",
     "attachment/Pasted image 20240117000327.png",
     "디자인패턴/데코레이트 패턴.md",
-    "디자인패턴/프록시 패턴.md",
-    "디자인패턴/디자인패턴.md",
-    "디자인패턴/템플릿 메서드 패턴.md",
-    "디자인패턴/콜백패턴.md",
-    "디자인패턴/전략패턴.md",
-    "DS/TheThingsI'veDone/2024-01-15.md",
     "디자인패턴",
-    "DS/TheThingsI'veDone/2024-01-13.md",
-    "DS/TheThingsI'veDone/2024-01-07.md",
-    "DS/TheThingsI'veDone/2024-01-05.md",
-    "DS/TheThingsI'veDone/2024-01-04.md",
-    "DS/TheThingsI'veDone/2024-01-03.md",
-    "DS/TheThingsI'veDone/2024-01-02.md",
     "문제 해결",
     "로드맵/1. Internet/How does the internet work/Pasted image 20231104234836.png",
     "알고리즘",
