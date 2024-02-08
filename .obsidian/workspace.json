@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/6. Relational Database/PostgreSQL.md",
+                "file": "DS/TheThingsI'veDone/2024-02-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -244,7 +244,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -264,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/6. Relational Database/PostgreSQL.md",
+                "file": "DS/TheThingsI'veDone/2024-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/6. Relational Database/PostgreSQL.md",
+                "file": "DS/TheThingsI'veDone/2024-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/6. Relational Database/PostgreSQL.md"
+                "file": "DS/TheThingsI'veDone/2024-02-08.md"
               }
             }
           },
@@ -343,10 +344,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aec32752e7a5ee9c",
+  "active": "9b0b8cc3402d9329",
   "lastOpenFiles": [
-    "로드맵/6. Relational Database/Relational Database.md",
     "로드맵/6. Relational Database/PostgreSQL.md",
+    "DS/TheThingsI'veDone/2024-02-08.md",
+    "로드맵/6. Relational Database/Relational Database.md",
     "attachment/Pasted image 20240207214618.png",
     "attachment/Pasted image 20240207214245.png",
     "attachment/Pasted image 20240207214231.png",
