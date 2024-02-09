@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-08.md",
+                "file": "DS/TheThingsI'veDone/2024-02-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-08.md",
+                "file": "DS/TheThingsI'veDone/2024-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-08.md",
+                "file": "DS/TheThingsI'veDone/2024-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-08.md"
+                "file": "DS/TheThingsI'veDone/2024-02-09.md"
               }
             }
           },
@@ -344,10 +344,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b0b8cc3402d9329",
+  "active": "aec32752e7a5ee9c",
   "lastOpenFiles": [
-    "로드맵/6. Relational Database/PostgreSQL.md",
     "DS/TheThingsI'veDone/2024-02-08.md",
+    "DS/TheThingsI'veDone/2024-02-09.md",
+    "로드맵/6. Relational Database/PostgreSQL.md",
     "로드맵/6. Relational Database/Relational Database.md",
     "attachment/Pasted image 20240207214618.png",
     "attachment/Pasted image 20240207214245.png",
@@ -374,7 +375,6 @@
     "DS/TheThingsI'veDone/2024-01-29.md",
     "DS/TheThingsI'veDone/2024-01-26.md",
     "DS/TheThingsI'veDone/2024-01-25.md",
-    "DS/TheThingsI'veDone/2024-01-22.md",
     "attachment/4. 프록시 패턴과 데코레이터 패턴.pdf",
     "attachment/Pasted image 20240117000459.png",
     "attachment/Pasted image 20240117000456.png",
