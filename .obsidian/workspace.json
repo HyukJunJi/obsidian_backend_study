@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-19.md",
+                "file": "DS/TheThingsI'veDone/2024-02-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -244,7 +244,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -264,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-19.md",
+                "file": "DS/TheThingsI'veDone/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-19.md",
+                "file": "DS/TheThingsI'veDone/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-19.md"
+                "file": "DS/TheThingsI'veDone/2024-02-20.md"
               }
             }
           },
@@ -345,9 +346,10 @@
   },
   "active": "aec32752e7a5ee9c",
   "lastOpenFiles": [
+    "DS/TheThingsI'veDone/2024-02-19.md",
+    "DS/TheThingsI'veDone/2024-02-20.md",
     "DS/DailyScrum.md",
     "DS/TheThingsI'veDone/2023-11-14.md",
-    "DS/TheThingsI'veDone/2024-02-19.md",
     "DS/TheThingsI'veDone/2024-02-17.md",
     "DS/TheThingsI'veDone/2024-02-16.md",
     "DS/TheThingsI'veDone/2024-02-14.md",
@@ -373,7 +375,6 @@
     "로드맵/21. GraphQL/GraphQL.md",
     "1. Internet/DNS and how it works.md",
     "DS/TheThingsI'veDone/2024-02-07.md",
-    "DS/TheThingsI'veDone/2024-02-06.md",
     "attachment/4. 프록시 패턴과 데코레이터 패턴.pdf",
     "attachment/Pasted image 20240117000459.png",
     "attachment/Pasted image 20240117000456.png",
