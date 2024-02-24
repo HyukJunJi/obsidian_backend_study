@@ -164,6 +164,19 @@
             }
           },
           {
+            "id": "e8a91df938ce300d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS/TheThingsI'veDone/2024-02-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b2e0fbf77aca2b5b",
             "type": "leaf",
             "state": {
@@ -177,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -265,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-23.md",
+                "file": "DS/TheThingsI'veDone/2024-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-23.md",
+                "file": "DS/TheThingsI'veDone/2024-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-02-23.md"
+                "file": "DS/TheThingsI'veDone/2024-02-24.md"
               }
             }
           },
@@ -344,8 +357,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aec32752e7a5ee9c",
+  "active": "e8a91df938ce300d",
   "lastOpenFiles": [
+    "DS/TheThingsI'veDone/2024-02-24.md",
     "DS/TheThingsI'veDone/2024-02-19.md",
     "DS/TheThingsI'veDone/2024-02-23.md",
     "DS/TheThingsI'veDone/2024-02-20.md",
@@ -374,7 +388,6 @@
     "로드맵/1. Internet/What is HTTP/entity headers.md",
     "로드맵/1. Internet/What is HTTP/다이제스트.md",
     "로드맵/21. GraphQL/GraphQL.md",
-    "1. Internet/DNS and how it works.md",
     "attachment/4. 프록시 패턴과 데코레이터 패턴.pdf",
     "attachment/Pasted image 20240117000459.png",
     "attachment/Pasted image 20240117000456.png",
