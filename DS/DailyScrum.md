@@ -10,6 +10,6 @@ banner: "https://outpostmagazine.com/sin-city-seoul-welcome-new-korea/seoul-skyl
 
 - [ ] #task 옵시디언 1시간 작성📅 {{date}}
 - [ ] #task 백준 2개 풀기📅 {{date}}
-
+- [ ] #task 인프런 2시간 보기📅 {{date}}
 
 [[DS/TheThingsi'veDone/{{yesterday}}|< yesterday]] | [[DS/TheThingsi'veDone/{{tomorrow}}|tomorrow >]]

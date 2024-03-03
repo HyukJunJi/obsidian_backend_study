@@ -60,38 +60,12 @@
             }
           },
           {
-            "id": "3e485130a9de25fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-03.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9ec712c7e837554e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "로드맵/1. Internet/How does the internet work/Packet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "008fb8c2de6ba023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DS/TheThingsI'veDone/2023-12-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -190,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -257,8 +231,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -359,35 +332,35 @@
   },
   "active": "e8a91df938ce300d",
   "lastOpenFiles": [
-    "DS/TheThingsI'veDone/2024-03-02.md",
-    "DS/TheThingsI'veDone/2024-03-03.md",
-    "DS/TheThingsI'veDone/2024-02-28.md",
-    "DS/TheThingsI'veDone/2024-02-27.md",
+    "로드맵/1. Internet/What is Hosting/클라우드 호스팅.md",
+    "로드맵/1. Internet/What is Hosting/웹 호스팅.md",
+    "로드맵/1. Internet/What is Hosting/서버 호스팅.md",
+    "로드맵/1. Internet/Browsers and how they work/파싱.md",
+    "로드맵/1. Internet/Browsers and how they work/렌더링 엔진.md",
+    "로드맵/1. Internet/Browsers and how they work/렌더 트리.md",
+    "디자인패턴/프록시 패턴.md",
+    "디자인패턴/템플릿 메서드 패턴.md",
+    "디자인패턴/전략패턴.md",
+    "디자인패턴/디자인패턴.md",
+    "디자인패턴/데코레이트 패턴.md",
+    "Basic Networking Concepts.md",
     "DS/TheThingsI'veDone/2024-02-23.md",
     "DS/TheThingsI'veDone/2024-02-24.md",
-    "DS/TheThingsI'veDone/2024-02-19.md",
     "DS/TheThingsI'veDone/2024-02-20.md",
+    "DS/TheThingsI'veDone/2024-02-19.md",
+    "DS/TheThingsI'veDone/2024-02-14.md",
+    "DS/TheThingsI'veDone/2024-02-09.md",
+    "DS/TheThingsI'veDone/2023-11-17.md",
+    "DS/TheThingsI'veDone/2024-03-02.md",
+    "DS/TheThingsI'veDone/2024-03-03.md",
     "DS/DailyScrum.md",
+    "DS/TheThingsI'veDone/2024-02-28.md",
+    "DS/TheThingsI'veDone/2024-02-27.md",
     "DS/TheThingsI'veDone/2023-11-14.md",
     "DS/TheThingsI'veDone/2024-02-17.md",
-    "DS/TheThingsI'veDone/2024-02-16.md",
-    "DS/TheThingsI'veDone/2024-02-14.md",
-    "DS/TheThingsI'veDone/2024-02-12.md",
-    "DS/TheThingsI'veDone/2024-02-09.md",
-    "DS/TheThingsI'veDone/2024-02-08.md",
-    "로드맵/6. Relational Database/PostgreSQL.md",
-    "로드맵/6. Relational Database/Relational Database.md",
     "attachment/Pasted image 20240207214618.png",
     "attachment/Pasted image 20240207214245.png",
     "attachment/Pasted image 20240207214231.png",
-    "로드맵/3. Version Control Systems/Version Control Systems.md",
-    "로드맵/2. Learn a Language/2. Learn a Language.md",
-    "로드맵/2. Learn a Language/Java8/Stream2.md",
-    "로드맵/2. Learn a Language/Java8/Stream.md",
-    "로드맵/2. Learn a Language/Java8/Java8.md",
-    "로드맵/1. Internet/What is HTTP/What is HTTP.md",
-    "로드맵/1. Internet/What is HTTP/HTTPS.md",
-    "로드맵/1. Internet/What is HTTP/HTTP의 구조.md",
     "attachment/4. 프록시 패턴과 데코레이터 패턴.pdf",
     "attachment/Pasted image 20240117000459.png",
     "attachment/Pasted image 20240117000456.png",
