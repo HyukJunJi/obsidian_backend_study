@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/정렬/퀵 정렬.md",
+                "file": "DS/TheThingsI'veDone/2024-03-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -231,7 +231,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -251,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/정렬/퀵 정렬.md",
+                "file": "DS/TheThingsI'veDone/2024-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/정렬/퀵 정렬.md",
+                "file": "DS/TheThingsI'veDone/2024-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/정렬/퀵 정렬.md"
+                "file": "DS/TheThingsI'veDone/2024-03-07.md"
               }
             }
           },
