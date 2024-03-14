@@ -329,7 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -345,9 +345,11 @@
   },
   "active": "ba5ccaf1323e2bb6",
   "lastOpenFiles": [
+    "퍼즐조각/spring security/spring security.md",
+    "면접 예상 질문.md",
+    "attachment/Pasted image 20240314232935.png",
     "attachment/Pasted image 20240314224817.png",
     "DS/TheThingsI'veDone/2024-03-14.md",
-    "면접 예상 질문.md",
     "알고리즘/정렬/병합 정렬.md",
     "attachment/Pasted image 20240308013836.png",
     "DS/TheThingsI'veDone/2024-03-07.md",
@@ -381,8 +383,6 @@
     "attachment/4. 프록시 패턴과 데코레이터 패턴.pdf",
     "attachment/Pasted image 20240117000459.png",
     "attachment/Pasted image 20240117000456.png",
-    "attachment/Pasted image 20240117000358.png",
-    "attachment/Pasted image 20240117000327.png",
     "디자인패턴",
     "문제 해결",
     "알고리즘",
