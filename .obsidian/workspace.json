@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-03-15.md",
+                "file": "면접 예상 질문.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -231,8 +231,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-03-15.md",
+                "file": "면접 예상 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-03-15.md",
+                "file": "면접 예상 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-03-15.md"
+                "file": "면접 예상 질문.md"
               }
             }
           },
@@ -346,38 +345,38 @@
   },
   "active": "ba5ccaf1323e2bb6",
   "lastOpenFiles": [
-    "면접 예상 질문.md",
-    "DS/TheThingsI'veDone/2024-03-15.md",
-    "퍼즐조각/spring security/spring security.md",
+    "로드맵/3. Version Control Systems/Version Control Systems.md",
+    "로드맵/2. Learn a Language/Java8/Java8.md",
+    "로드맵/1. Internet/1. Internet.md",
+    "로드맵/1. Internet/What is HTTP/What is HTTP.md",
+    "로드맵/1. Internet/What is HTTP/HTTPS.md",
+    "로드맵/1. Internet/What is HTTP/HTTP의 구조.md",
+    "로드맵/1. Internet/What is HTTP/HTTP.md",
+    "로드맵/1. Internet/What is HTTP/entity headers.md",
+    "로드맵/1. Internet/What is HTTP/다이제스트.md",
+    "로드맵/1. Internet/What is Hosting/What is Hosting.md",
+    "로드맵/1. Internet/What is Hosting/클라우드 호스팅.md",
+    "로드맵/1. Internet/What is Hosting/서버 호스팅.md",
+    "로드맵/1. Internet/What is Hosting/웹 호스팅.md",
+    "로드맵/1. Internet/What is Domain Name/What is Domain Name.md",
+    "로드맵/1. Internet/What is Domain Name/Domain Name.md",
+    "로드맵/1. Internet/How does the internet work/WAN.md",
+    "로드맵/1. Internet/How does the internet work/Traffic.md",
+    "로드맵/1. Internet/How does the internet work/TCP.md",
+    "로드맵/1. Internet/How does the internet work/SSL,TLS.md",
+    "로드맵/1. Internet/How does the internet work/Routing.md",
+    "로드맵/1. Internet/How does the internet work/Router.md",
+    "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+    "로드맵/1. Internet/How does the internet work/이더넷.md",
+    "로드맵/1. Internet/How does the internet work/미들웨어.md",
+    "로드맵/1. Internet/How does the internet work/네트워크 스위치.md",
+    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
     "attachment/Pasted image 20240314232935.png",
     "attachment/Pasted image 20240314224817.png",
-    "DS/TheThingsI'veDone/2024-03-14.md",
-    "알고리즘/정렬/병합 정렬.md",
     "attachment/Pasted image 20240308013836.png",
-    "DS/TheThingsI'veDone/2024-03-07.md",
-    "DS/TheThingsI'veDone/2024-03-08.md",
     "attachment/Pasted image 20240307011007.png",
     "attachment/Pasted image 20240307010823.png",
-    "알고리즘/정렬/버블 정렬.md",
-    "알고리즘/정렬/선택 정렬.md",
-    "알고리즘/정렬/삽입 정렬.md",
-    "DS/TheThingsI'veDone/2024-03-05.md",
-    "DS/TheThingsI'veDone/2024-03-04.md",
-    "DS/TheThingsi'veDone/{{tomorrow}}.md",
-    "DS/TheThingsI'veDone/{{tomorrow}}.md",
-    "DS/TheThingsi'veDone/{{yesterday}}.md",
-    "DS/TheThingsI'veDone/{{yesterday}}.md",
-    "알고리즘/정렬/힙 정렬.md",
-    "알고리즘/정렬/퀵 정렬.md",
     "알고리즘/정렬",
-    "알고리즘/.md",
-    "DS/TheThingsI'veDone/2024-03-03.md",
-    "로드맵/1. Internet/What is Hosting/클라우드 호스팅.md",
-    "로드맵/1. Internet/What is Hosting/웹 호스팅.md",
-    "로드맵/1. Internet/What is Hosting/서버 호스팅.md",
-    "로드맵/1. Internet/Browsers and how they work/파싱.md",
-    "로드맵/1. Internet/Browsers and how they work/렌더링 엔진.md",
-    "로드맵/1. Internet/Browsers and how they work/렌더 트리.md",
     "attachment/Pasted image 20240207214618.png",
     "attachment/Pasted image 20240207214245.png",
     "attachment/Pasted image 20240207214231.png",
