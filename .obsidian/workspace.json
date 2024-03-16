@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "면접 예상 질문.md",
+                "file": "DS/TheThingsI'veDone/2024-03-16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -231,7 +231,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -251,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "면접 예상 질문.md",
+                "file": "DS/TheThingsI'veDone/2024-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "면접 예상 질문.md",
+                "file": "DS/TheThingsI'veDone/2024-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "면접 예상 질문.md"
+                "file": "DS/TheThingsI'veDone/2024-03-16.md"
               }
             }
           },
@@ -345,6 +346,8 @@
   },
   "active": "ba5ccaf1323e2bb6",
   "lastOpenFiles": [
+    "DS/TheThingsI'veDone/2024-03-16.md",
+    "DS/TheThingsI'veDone/2024-03-15.md",
     "로드맵/3. Version Control Systems/Version Control Systems.md",
     "로드맵/2. Learn a Language/Java8/Java8.md",
     "로드맵/1. Internet/1. Internet.md",
@@ -369,8 +372,6 @@
     "로드맵/1. Internet/How does the internet work/How does the internet work.md",
     "로드맵/1. Internet/How does the internet work/이더넷.md",
     "로드맵/1. Internet/How does the internet work/미들웨어.md",
-    "로드맵/1. Internet/How does the internet work/네트워크 스위치.md",
-    "로드맵/1. Internet/How does the internet work/프로토콜/OSI 7계층 TCP,IP 4계층/Protocol.md",
     "attachment/Pasted image 20240314232935.png",
     "attachment/Pasted image 20240314224817.png",
     "attachment/Pasted image 20240308013836.png",
