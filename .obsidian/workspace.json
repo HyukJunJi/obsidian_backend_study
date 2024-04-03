@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+                "file": "DS/TheThingsI'veDone/2024-04-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+                "file": "DS/TheThingsI'veDone/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+                "file": "DS/TheThingsI'veDone/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로드맵/1. Internet/How does the internet work/How does the internet work.md"
+                "file": "DS/TheThingsI'veDone/2024-04-04.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "9394dc9eeb02fe84",
   "lastOpenFiles": [
-    "UDP.md",
     "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+    "DS/TheThingsI'veDone/2024-04-04.md",
+    "UDP.md",
     "면접 예상 질문.md",
     "로드맵/1. Internet/What is HTTP/HTTP.md",
     "로드맵/1. Internet/How does the internet work/TCP.md",
@@ -227,7 +228,6 @@
     "로드맵/1. Internet/What is HTTP/다이제스트.md",
     "로드맵/1. Internet/What is Hosting/What is Hosting.md",
     "로드맵/1. Internet/What is Hosting/클라우드 호스팅.md",
-    "로드맵/1. Internet/What is Hosting/서버 호스팅.md",
     "attachment/Pasted image 20240314232935.png",
     "attachment/Pasted image 20240314224817.png",
     "attachment/Pasted image 20240308013836.png",
