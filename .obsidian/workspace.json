@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-04-04.md",
+                "file": "로드맵/2. Learn a Language/Java8/Stream.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdee763a7153e743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로드맵/1. Internet/Browsers and how they work/DOM tree.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UDP",
+                "query": "함수형 인터페이스",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-04-04.md",
+                "file": "로드맵/1. Internet/Browsers and how they work/DOM tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-04-04.md",
+                "file": "로드맵/1. Internet/Browsers and how they work/DOM tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/TheThingsI'veDone/2024-04-04.md"
+                "file": "로드맵/1. Internet/Browsers and how they work/DOM tree.md"
               }
             }
           },
@@ -200,11 +213,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9394dc9eeb02fe84",
+  "active": "cdee763a7153e743",
   "lastOpenFiles": [
-    "로드맵/1. Internet/How does the internet work/How does the internet work.md",
+    "로드맵/1. Internet/Browsers and how they work/렌더 트리.md",
+    "DS/TheThingsI'veDone/2024-04-17.md",
+    "로드맵/2. Learn a Language/Java8/Java8.md",
+    "로드맵/2. Learn a Language/Java8/Stream.md",
+    "로드맵/2. Learn a Language/Java8/Stream2.md",
     "DS/TheThingsI'veDone/2024-04-04.md",
     "UDP.md",
+    "Redis.md",
+    "Functional Testing.md",
+    "Basic Networking Concepts.md",
+    "함수형.md",
+    "attachment/Pasted image 20231026172349.png",
+    "attachment/4. 프록시 패턴과 데코레이터 패턴.pdf",
+    "퍼즐조각/spring security/spring security.md",
+    "로드맵/1. Internet/How does the internet work/How does the internet work.md",
     "면접 예상 질문.md",
     "로드맵/1. Internet/What is HTTP/HTTP.md",
     "로드맵/1. Internet/How does the internet work/TCP.md",
@@ -218,16 +243,6 @@
     "로드맵/1. Internet/DNS and how it works/DNS.md",
     "DS/TheThingsI'veDone/2024-03-16.md",
     "DS/TheThingsI'veDone/2024-03-15.md",
-    "로드맵/3. Version Control Systems/Version Control Systems.md",
-    "로드맵/2. Learn a Language/Java8/Java8.md",
-    "로드맵/1. Internet/1. Internet.md",
-    "로드맵/1. Internet/What is HTTP/What is HTTP.md",
-    "로드맵/1. Internet/What is HTTP/HTTPS.md",
-    "로드맵/1. Internet/What is HTTP/HTTP의 구조.md",
-    "로드맵/1. Internet/What is HTTP/entity headers.md",
-    "로드맵/1. Internet/What is HTTP/다이제스트.md",
-    "로드맵/1. Internet/What is Hosting/What is Hosting.md",
-    "로드맵/1. Internet/What is Hosting/클라우드 호스팅.md",
     "attachment/Pasted image 20240314232935.png",
     "attachment/Pasted image 20240314224817.png",
     "attachment/Pasted image 20240308013836.png",
@@ -237,9 +252,7 @@
     "attachment/Pasted image 20240207214618.png",
     "attachment/Pasted image 20240207214245.png",
     "attachment/Pasted image 20240207214231.png",
-    "attachment/4. 프록시 패턴과 데코레이터 패턴.pdf",
     "attachment/Pasted image 20240117000459.png",
-    "attachment/Pasted image 20240117000456.png",
     "디자인패턴",
     "문제 해결",
     "알고리즘",
